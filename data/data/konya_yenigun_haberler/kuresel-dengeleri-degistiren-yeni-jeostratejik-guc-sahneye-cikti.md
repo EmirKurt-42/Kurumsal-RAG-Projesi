@@ -1,0 +1,28 @@
+---
+kaynak: konya_yenigun
+kaynak_url: https://www.konyayenigun.com/kuresel-dengeleri-degistiren-yeni-jeostratejik-guc-sahneye-cikti
+baslik: Küresel dengeleri değiştiren yeni jeostratejik güç sahneye çıktı
+yayin_tarihi: 2026-07-19
+cekilme_tarihi: 2026-07-22
+hash: fbcfd22820cc80240034cf8e5f6399d4
+---
+
+Türkiye'nin Karabağ'da, Libya'da, Kıbrıs'ta, Doğu Akdeniz'de, Irak'ta, Suriye'de emperyalist ve Siyonist oyunları bozduğunu dile getiren deneyimli siyasetçi, Avrasya coğrafyasının kalbinde yeni bir jeostratejik gücün yükselmeye başladığını vurguladı. Ankara’nın son yıllarda attığı adımlarla dış politikada sadece kendi sınırlarını korumakla kalmayıp bölgesel istikrarın da en büyük güvencesi haline geldiği belirtildi. MHP’li kurmay, özellikle yerli savunma sanayisi ve teknolojik dönüşümün ülkeyi getirdiği noktayı salondakilerle paylaştı. Türkiye'nin ileri teknolojileri kendi imkan ve kabiliyetleriyle üretebilen ve ihraç eden bir konuma ulaştığını ifade eden Kalaycı, bu durumun masadaki diplomatik gücü doğrudan artırdığını aktardı. Türkiye'nin söz dinleyen değil, dinleten, yumuşak gücünü de caydırıcı vasfını da kullanabilen bir ülke mertebesine çıktığını aktaran Konya Milletvekili, Türkiye yürüttüğü çok boyutlu ve kapsayıcı dış politikayla, bölgesel ve küresel etkisini artırmış, diplomasinin ve barışın merkezi olmuştur diyerek kazanımların önemine işaret etti.
+
+**TARIMSAL ÜRETİMDE GİRDİ MALİYETLERİ VE ÇİFTÇİNİN EKONOMİK MÜCADELESİ**
+
+Dış politikadaki ve teknolojideki bağımsızlık hamlelerinin iç piyasadaki en önemli yansımasının tarım sektörü olduğunu vurgulayan Mustafa Kalaycı, gıda arzı güvenliğinin taşıdığı öneme değindi. Gıda güvenliğinin doğrudan bir milli egemenlik ve beka meselesi olduğunu kaydeden MHP Genel Başkan Yardımcısı, iklim koşullarının sunduğu üretim avantajları ile ekonomik gerçeklerin bir arada değerlendirilmesi gerektiğini ifade etti. Bu yılki yağışların, başta hububat olmak üzere tarım ürünlerinde yüksek verim ve rekor üretim getirdiğini belirten Kalaycı, yüksek rekolteye rağmen üreticinin sırtındaki maliyet yükünün hafifletilmesi çağrısında bulundu.
+
+Tarımsal üretimin sürdürülebilir kılınması adına sahadaki reel rakamların dikkate alınması gerektiğini savunan Kalaycı, enflasyon baskısının üreticiyi zor durumda bıraktığına değindi. Resmi rakamlara göre tarımsal girdi enflasyonunun yıllık yüzde 39, sadece enerjide yüzde 48,4, gübre fiyatlarında ise yüzde 62,8 düzeyinde olduğunu bildiren Konya Milletvekili, açıklanan hububat alım fiyatlarının enflasyonun çok altında kaldığını, hatta çiftçilerin arpa ve buğdayını bu fiyatların da altında satmak zorunda kaldığını aktardı. Üreticinin üst üste gelen zorluklarla karşı karşıya kaldığını hatırlatan Kalaycı, geçen yıl kuraklık ve zirai donun etkisiyle gelir kaybına uğrayan çiftçinin, bu yıl artan maliyetler nedeniyle ilave destek verilmesini ve ürün bedeli ödemelerinin kısa sürede yapılmasını istediğini dile getirdi. Kalaycı, tarımın, milletin bugününü değil, yarınını da besleyen stratejik bir kudret olduğunu özellikle belirtti.
+
+**TOPRAK MAHSULLERİ OFİSİ ALIM TAKVİMİ VE DESTEKLEME TALEPLERİ**
+
+Üreticilerin mağduriyetini gidermek adına devletin en üst kademesi tarafından planlanan yeni adımları aktaran Mustafa Kalaycı, Toprak Mahsulleri Ofisi üzerinden yapılacak ödemelerin detaylarına değindi. Cumhurbaşkanımız hububata verilen temel destek ve planlama desteği tutarının girdi maliyetlerinde oluşan aşırı artışlar göz önüne alınarak artırılacağını, Toprak Mahsulleri Ofisinin 21'inci günden itibaren ürün bedeli ödemelerine başlayacağını açıklamıştır diyen MHP’li vekil, partisinin bu süreçteki duruşunu net bir dille ortaya koydu. Milliyetçi Hareket Partisi olarak hububat desteğinde yapılacak artışın, maliyet artışını karşılaması ve destek ödemelerinin bu yıl içerisinde yapılması görüşündeyiz ifadesini kullandı.
+
+**KONYA OVASI PROJESİ VE SULAMA ALTYAPISINDAKİ SON DURUM**
+
+Konya bölgesinin tarımsal geleceği için hayati bir önem taşıyan su politikalarına da geniş yer ayıran Mustafa Kalaycı, bölgedeki devasa altyapı yatırımlarının mevcut durumunu paylaştı. Sürdürülebilir bir tarım ve verimlilik için havzalar arası su transferinin zorunlu olduğunu aktaran Kalaycı, geçmiş dönemlerde inşa edilen tesislerin tam kapasiteyle faaliyete geçmesi gerektiğinin altını çizdi. KOP projesinin kilit tesisleri Mavi Tünel ve Bağbaşı Barajı 2012 yılında, Bozkır Barajı 2020 yılında, Afşar Barajı 2022 yılında yapılmakla birlikte hala Mavi Tünel'den tarımsal sulama amaçlı su verilememektedir eleştirisinde bulunan milletvekili, bazı tesislerin de atıl durumda kalmasından duyduğu rahatsızlığı dile getirdi. AHİ kanalı ve Hotamış depolama tesisinin yıllardır atıl vaziyettedir diyen Kalaycı, yatırımların üretime kazandırılması gerektiğini vurguladı.
+
+Konya Ovası'na diğer havzalardan su getirilmesinin acil bir ihtiyaç olduğunu net bir şekilde ifade eden MHP Genel Başkan Yardımcısı Kalaycı, Türkiye’nin son dönemde imza attığı dev altyapı projelerini referans göstererek bu problemin rahatlıkla çözülebileceğini dile getirdi. Ülkemizi petrol ve doğal gaz boru hatları, bölünmüş yollar, otoyollar ve demir ağlarla ören, dağları delik deşik edip onlarca tüneller açan devletimiz şüphe yok ki Konya Ovası'na da suyu kolaylıkla getirir sözleriyle kararlılık mesajı veren Kalaycı, tarımsal sulamaya ayrılacak bütçenin ülke ekonomisine katma değer olarak geri döneceğini hatırlattı. Projelerin tamamlanmasıyla elde edilecek ekonomik faydaya değinen Kalaycı, yapılacak harcamaların üretim ve verimlilik artışından sağlanacak gelirle kısa sürede amorti edileceğini belirtti.
+
+**Kaynak:**AA

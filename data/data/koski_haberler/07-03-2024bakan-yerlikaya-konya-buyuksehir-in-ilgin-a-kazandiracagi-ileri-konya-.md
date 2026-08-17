@@ -1,0 +1,47 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/bakan-yerlikaya-konya-buyuksehir-in-ilgin-a-kazandiracagi-ileri-biyolojik-atik-su-aritma-tesisinin-temelini-atti-2024-03-07-51
+baslik: 07.03.2024BAKAN YERLİKAYA KONYA BÜYÜKŞEHİR’İN ILGIN’A KAZANDIRACAĞI İLERİ…Konya Büyükşehir Belediyesi tarafından Ilgın’a kazandırılacak İleri Biyolojik Atık Su Arıtma Tesisinin temeli İçişleri Bakanı Ali…
+cekilme_tarihi: 2026-07-14
+hash: 294988a283dcbb45a5d0e5e24cdb5dc0
+---
+
+Konya Büyükşehir Belediyesi tarafından Ilgın’a kazandırılacak İleri Biyolojik Atık Su Arıtma Tesisinin temeli İçişleri Bakanı Ali Yerlikaya’nın katıldığı törenle atıldı. Konya Büyükşehir Belediyesi’nin ve Cumhur İttifakı belediyelerinin tüm ilçelerde hakkaniyetli, adaletli, gerçek belediyeciliği gösteren çalışmalara imza attığını belirten Bakan Yerlikaya, “Biz sadece kul hakkına değil; aynı zamanda çevrenin de bizim üzerimizde bir hakkı olduğuna inanıyoruz. Medeniyet değerlerimiz, inanç sistemimiz bize bunu öğretti. Dolayısıyla bu kullandığımız suyu; ilim, bilim, teknik yani ileri biyolojik atık su arıtma tesisimizde arıtıyoruz, tekraren toprağa veriyoruz ki döngü devam etsin. Biz çevreye saygılıyız. Bizden sonraki gelen neslimize de Allah’ın izniyle tertemiz bırakmakta kararlıyız” dedi. Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay da Yeni Büyükşehir Yasası’yla Ilgın’da büyük bir değişimin ve dönüşümün yaşandığına dikkati çeken Başkan Altay, “Şöyle geriye dönüp bakınca verdiğimiz sözlerin üzerinde işler yaptığımızı görmenin mutluluğunu duyuyoruz. İnşallah bakanlarımızın desteğiyle, Büyükşehir’imizin desteğiyle Ilgın’da verilen tüm sözlerin yerine getirilmesi için çaba sarf edeceğiz” diye konuştu.
+
+Konya Büyükşehir Belediyesi tarafından Ilgın ilçesine kazandırılacak İleri Biyolojik Atık Su Arıtma Tesisinin temeli İçişleri Bakanı Ali Yerlikaya’nın katıldığı törenle atıldı.
+
+Temel atma programında konuşan Ilgın Belediye Başkanı Yalçın Ertaş, ileri biyolojik arıtma özelliğine sahip olacak şekilde inşa edilen atık su arıtma tesisinin hayırlı olmasını diledi.
+
+“SEÇİM DÖNEMLERİ MUHASEBE DÖNEMLERİDİR”
+
+Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, seçim dönemlerinin muhasebe dönemleri olduğunu belirterek, “2019’da bu meydanlarda ne söz vermiştik, 2024’e kadar ne yaptık, 2029’a kadar ne yapacağımızı konuşacağımız zamanlardayız. Biz 2019’da sizlerden Yalçın başkanımızla birlikte destek istedik. Siz sandıkta gereğini yaptınız. O günden itibaren Ilgın’ımıza gece gündüz demeden birlikte çalıştığımız Yalçın Ertaş başkanımıza emeklerinden ve koordinasyonundan dolayı teşekkür ediyorum” ifadelerini kullandı.
+
+BAŞKAN ALTAY ILGIN’DA YAŞANAN DEĞİŞİM VE DÖNÜŞÜME DİKKATİ ÇEKTİ
+
+Yeni Büyükşehir Yasası’yla Ilgın’da büyük bir değişimin ve dönüşümün yaşandığına dikkati çeken Başkan Altay şöyle devam etti: “Hemen solumuzda şehir konağımız var. İçinde yüzme havuzuyla Konya’daki standartlarda; kadınlarımıza, gençlerimize hizmet veriyor. Hemen sağ tarafta belediye binamız, üzerinde bulunduğumuz cadde Büyükşehir’in ilk işlerinden birisi, prestij cadde olarak hayata geçirilen işimiz. Hemen az ileride geçtiğimiz haftalarda temelini attığımız Osmanlı Kent Meydanı’nda yoğun şekilde çalışıyoruz. Bugün bir ilçenin kalkınmışlığını gösteren atık su arıtma tesisimizin temelini atacağız. Çevre, Şehircilik ve İklim Değişikliği Bakanlığımıza, İLBANK Genel Müdürümüze ve bölge müdürümüze katkılarından dolayı teşekkür ediyorum.”
+
+SON 1 AYDA ILGIN’DA TEMELİ ATILAN YATIRIMLARIN MALİYETİ 650 MİLYON LİRA
+
+Osmanlı Kent Meydanı’nı güncel maliyetle 343 milyon liraya yaptıklarını, 301 milyon liralık maliyetle de atık su arıtma tesisini ilçeye kazandıracaklarını vurgulayan Başkan Altay, “Yani Ilgın’da son 1 ayda attığımız temelin toplam bedeli 650 milyon lira. Biz şunun farkındayız; ne yaparsak yapalım sizin hakkınızı ödeyemeyiz. Çünkü bize sevgi, muhabbet gösteriyorsunuz. Büyükşehirler içerisinde 2019’da yüzde 70 oyla birinci olmuştuk. Bu birincilik bize şan, şöhret değil, büyük bir sorumluluk getirdi. Çünkü oy veren herkesin isteğini karşılamamız, oy veren herkesi mutlu etmemiz gerekiyordu. Şöyle geriye dönüp bakınca verdiğimiz sözlerin üzerinde işler yaptığımızı görmenin mutluluğunu duyuyoruz. İnşallah bakanlarımızın desteğiyle, Büyükşehir’imizin desteğiyle Ilgın’daki verilen tüm sözlerin yerine getirilmesi için çaba sarf edeceğiz. Başkan adayımız Ömer Apil’in arkasında Büyükşehir Belediyemizin gücü var, hükümetimizin gücü var” cümlelerini kullandı.
+
+“İNŞALLAH HİZMET AKIŞI DEVAM EDECEK”
+
+AK Parti Konya Milletvekili Orhan Erdem, temeli atılacak tesisin hayırlı olmasını dileyerek, “Yalçın başkanıma beş yıllık emekleri için teşekkür ediyoruz. Hepimizin bir gün görevleri biter, yeni arkadaşlar gelir ama bu büyük ideal Cumhurbaşkanımızın ülkemize kazandırdığı yeni vizyon, Devlet Bahçeli ile oluşturdukları Cumhur İttifakı’nın ideali inşallah hep devam edecek, dünyaya sesimiz gür ve yüksek çıkacak. İnşallah hizmet akışı devam edecek. Ömer Apil kardeşimizin arkasında 11 ittifak milletvekili var, hükümet var, Cumhurbaşkanımız var, Devlet Bahçeli var. Allah kendisine güzel hizmetler nasip etsin” ifadelerini kullandı.
+
+“CUMHURBAŞKANIMIZIN GÖSTERDİĞİ GERÇEK BELEDİYECİLİK, KONYA’DA DAHA BAŞKA OLDU”
+
+İçişleri Bakanı Ali Yerlikaya ise, Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay’ın Dünya Belediyeler Birliği Başkanı olduğunu anımsatarak sadece Türkiye’ye değil, tüm dünyaya nam saldığını ifade etti.
+
+1994’te Cumhurbaşkanı Recep Tayyip Erdoğan’ın İstanbul Büyükşehir Başkanlığı döneminde gerçek belediyeciliği gösterdiğini kaydeden Bakan Yerlikaya, “Onun açmış olduğu o gerçek belediyecilik hizmet duruşu, dili, tutumu, davranışı gönülden gönüle öyle bir hal oldu ki Anadolu’nun büyükşehirlerinde, Anadolu’nun illerinde, ilçelerinde, beldelerinde örnek alındı ve Allah’ın izniyle pek çok şehirlerimizde o belediyecilik duruşu iz yaptı ama Konya’da daha başka oldu, daha güzel oldu. Uğur İbrahim başkanımız Allah’ın izniyle tekrar 31 Mart’ta aday. Yürekten teşekkür ediyoruz. 5 yıl güzel Ilgın’ımıza hizmet eden Yalçın başkanımıza teşekkür ediyoruz. Yalçın başkanımız bu hizmet bayrağını Allah’ın izniyle, Ömer Apil kardeşimize veriyor. Onu da tebrik ediyoruz” diye konuştu.
+
+“BELEDİYE BAŞKANLARIMIZ ALLAH RIZASI İÇİN ÇALIŞIYOR”
+
+Konya Büyükşehir Belediyesi’nin ve Cumhur İttifakı’nın tüm ilçelerde hakkaniyetli, adaletli, gerçek belediyeciliği gösterdiğini vurgulayan Bakan Yerlikaya konuşmasına şöyle devam etti: “Adil bir şekilde, yüz akıyla hizmet ediyorlar. Nasıl yapıyorlar; kaynakları doğru kullanıyor, doğru, dürüst, hesap verebilir. İki günü bir olmadan gece gündüz demeden, Allah muhafaza reyting için değil, Allah rızası için. Bizim düsturumuz bu. Zaten bunun karşılığını Konya’nın başta merkez ilçeleri olmak üzere tüm ilçelerinde izlerini görmek mümkün. Altyapıyla ilgili bu işlerin hemen hemen tamamı bitti. Bunlar artık son açılış veya temel atmalar. Kullanmış olduğumuz evsel sular, bunların tıpkı doğanın, tabiatın bize arz-ı endam ettiği gibi Allah’ın izniyle, bu suyun kullandıktan sonra tekrardan aldığımız yere aktarıyoruz. Biz sadece kul hakkına değil; aynı zamanda çevrenin de bizim üzerimizde bir hakkı olduğuna inanıyoruz. Medeniyet değerlerimiz, inanç sistemimiz bize bunu öğretti. Dolayısıyla bu kullandığımız suyu; ilim, bilim, teknik yani ileri biyolojik atık su arıtma tesisimizde arıtıyoruz, tekraren toprağa veriyoruz ki döngü devam etsin. Biz çevreye saygılıyız. Biz, çevremizi koruruz, bize ait olan her şeyi koruduğumuz gibi. Bizden sonraki gelen neslimize de Allah’ın izniyle tertemiz bırakmakta kararlıyız. 2019’dan bu yana Uğur İbrahim Başkanımız Büyükşehirle, KOSKİ’yle 9 atık su arıtma tesisi yaptı. Bunlardan birisi Ilgın, birazdan temelini atacağız. Ama bunların tamamı Allah’ın izniyle bu yılın yani 2024 yılının sonunda bitecek. Başka, Konya merkezde 1 buçuk milyona hitap eden, Selçuklu, Karatay, Meram ilçelerimizdeki hemşerilerimizle gelen misafirlerimizin kullanım sularının arıtılmasıyla ilgili var olan tesisi yüzde yüz, yani bir o kadar daha büyütüyoruz. Dolayısıyla günlük 400 bin metreküp/günlük bir arıtma tesisine kavuşuyoruz. Şimdi Büyükşehir’imizin KOSKİ’yle beraber Uğur İbrahim Bey’in liderliğinde bu yapılmış, yapılacak olan 5 ve merkezdeki büyük devasa arıtmanın toplam maliyeti 4 milyar 600 milyon lira. Allah başkanımızdan ve arkadaşlarından razı olsun.”
+
+“TÜRKİYE’NİN HUZURU VE GÜVENLİĞİ İÇİN ÇALIŞIYORUZ”
+
+Bakanlık olarak 783 bin kilometrekare kara vatanda, 470 bin kilometrekare mavi vatanda ve siber vatanda Ilgın’ın, Konya’nın ve tüm Türkiye’nin huzuru ve güvenliği için çalıştıklarının altını çizen Balan Yerlikaya, “Sizleri seviyoruz. Allah için her birinizi seviyoruz. Sizlerin huzuru, güvenliği için sadece İçişleri Bakanlığı değil Sayın Cumhurbaşkanımızın liderliğinde tüm bakanlarımız, devletimizin tüm kurumları aşk ile çalışıyor. Bilin ki aşk ile çalışmaya devam edeceğiz” sözleriyle konuşmasını tamamladı.
+
+Konuşmaların ardından Ilgın İleri Biyolojik Atık Su Arıtma Tesisinin temeli dualarla atıldı.
+
+Programa; Konya Valisi Vahdettin Özkan, AK Parti Konya Milletvekilleri Ziya Altunyaldız ve Mehmet Baykan, AK Parti Konya İl Başkanı Hasan Angı, MHP Konya İl Başkanı Remzi Karaarslan, Ilgın Kaymakamı Aytekin Yılmaz, Cumhur İttifakı Ilgın Belediye Başkan Adayı Ömer Apil, AK Parti Ilgın İlçe Başkanı Ömer Emre, MHP Ilgın İlçe Başkanı Harun Ok da katıldı.

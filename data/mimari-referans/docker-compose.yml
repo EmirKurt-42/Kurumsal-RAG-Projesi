@@ -1,0 +1,26 @@
+services:
+  user-service:
+    build: services/user_service
+    ports:
+      - "8001:8000"
+    environment:
+      USER_SERVICE_DATABASE_URL: sqlite+aiosqlite:////data/users.db
+    volumes:
+      - user-data:/data
+
+  order-service:
+    build: services/order_service
+    ports:
+      - "8002:8000"
+    environment:
+      ORDER_SERVICE_DATABASE_URL: sqlite+aiosqlite:////data/orders.db
+      # Servisler compose ağı içinde birbirine servis adıyla erişir.
+      ORDER_SERVICE_USER_SERVICE_URL: http://user-service:8000
+    volumes:
+      - order-data:/data
+    depends_on:
+      - user-service
+
+volumes:
+  user-data:
+  order-data:

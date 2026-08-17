@@ -1,0 +1,12 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/buyuksehir--den-su-kayip-kacaklarina-teknolojik-mudahale-2019-12-02-19
+baslik: 06.12.2019Büyükşehir'den Su Kayıp Kaçaklarına Teknolojik MüdahaleKonya Büyükşehir < Belediyesi>Konya Büyükşehir belediyesi KOSKİ Genel Müdürlüğü, yeraltı sularındaki kayıp kaçaklarla ilgili önemli…
+yayin_tarihi: 2019-12-06
+cekilme_tarihi: 2026-07-22
+hash: c7665c3a6c34754647b0667221432f13
+---
+
+Konya Büyükşehir < Belediyesi>
+
+Konya Büyükşehir belediyesi KOSKİ Genel Müdürlüğü, yeraltı sularındaki kayıp kaçaklarla ilgili önemli çalışmalar yürütüyor. Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, suyun tasarruflu ve doğru kullanımı konusunda her türlü önlemi aldıklarını ve yürütülen çalışmaları yakından takip ettiklerini belirterek, gelecek nesillere daha iyi bir yaşam bırakmak titiz bir şekilde çalıştıklarını dile getirdi. Tam donanımlı teknolojik cihazların yer aldığı araçlarla su kayıp ve kaçaklarının anında tespit edildiğini belirten Başkan Altay, “Mavi Tünel’den ilimize titizlikle ulaştırdığımız tatlı su, halkımızın sağlığı ve yaşam standardı bakımından çok önemli. Bu projenin daha verimli olması, su kayıp ve kaçakların en aza indirilmesi amacıyla teknolojik imkanları da en iyi şekilde değerlendiriyoruz. Amacımız 2023 yılına kadar Konya ve ilçelerinde su kaybını tamamen ortadan kaldırmak” ifadelerine yer verdi. 5 ADET TAM DONANIMLI ARAÇLA MÜDAHALE EDİLİYOR Yeraltında meydana gelen boru patlaması, su sızıntısı, suyun basınç miktarı gibi önemli çalışmalar için KOSKİ bünyesinde 5 adet tam donanımlı su kayıp kaçak tespit cihazlı araç Konya merkezde ve ilçelerde hizmetlerini sürdürüyor. Bu konuda her ihbarı değerlendiren KOSKİ ekipleri, gidilen bölgede ilk olarak akustik dinleme mikrofonu ile suyun sızıntı yaptığı alanı tespit ediyor. Daha sonra kablo tespit cihazıyla kazılacak alanda elektrik hattı olup olmadığı belirleniyor. Ardından su şebekelerinin basınçları ve debileri ölçülerek yapılacak çalışmaya yön veriliyor. Tespit edilen arıza, noktasal olarak ekipler tarafından kazılarak kısa bir süre içerisinde kaçak önlenmiş oluyor. Yapılan çalışmayla arıza yerinin anında tespit edilmesi, kazı çalışmasının en az şekilde yapılması da ekonomik anlamda önemli kazanımlar sağlıyor. Böylelikle hem vatandaşın su sıkıntısı anında çözüme kavuşuyor, hem de ciddi anlamda su kaybı önlenmiş oluyor.

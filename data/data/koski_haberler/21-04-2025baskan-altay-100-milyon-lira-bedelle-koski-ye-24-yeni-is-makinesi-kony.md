@@ -1,0 +1,37 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/baskan-altay-100-milyon-lira-bedelle-koski-ye-24-yeni-is-makinesi-daha-kazandirdik-2026-02-03-44
+baslik: 21.04.2025BAŞKAN ALTAY: “100 MİLYON LİRA BEDELLE KOSKİ’YE 24 YENİ İŞ MAKİNESİ…Konya Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü’nün 100 milyon lira bedelle hizmete aldığı 24 aracın tanıtımı yapıldı. Konya Büyükşehir…
+cekilme_tarihi: 2026-07-14
+hash: aaafd5dcb94f74857dc16eecc85f3713
+---
+
+Konya Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü’nün 100 milyon lira bedelle hizmete aldığı 24 aracın tanıtımı yapıldı. Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, KOSKİ’nin 42 bin kilometrekarelik alanda 31 ilçede 2 milyon 300 bin nüfusa temiz su sağlamak, kanalizasyon ve atıksu arıtma tesisleri yapmak için çalıştığını, tüm bunları yaparken de yenilenebilir enerji yatırımlarına ağırlık verdiğini söyledi. KOSKİ’nin en güçlü yanının çalışanları olduğunu belirten Başkan Altay, “Bir taraftan insan kaynağımızı geliştirirken diğer taraftan da makine ve ekipmanımızı geliştirmek için her yıl düzenli yenilemeler yapıyoruz. Bugün 100 milyon lira bedelle 24 yeni iş makinesini daha hizmete alacağız” dedi. Hizmete alınan araçların yerli olmasını ve Türkiye’de üretilmesini önemsediklerini belirten Başkan Altay, “Bu makinelerin büyük bir kısmı Türk malı. Kalan kısmı da Türkiye’de üretilen markalar” diye konuştu. Programa katılan AK Parti Konya İl Başkanı Fatih Özgökçen, “Hep şunu söylüyoruz; Konya, kilometrekare olarak dünyadaki en büyük belediyecilik teşkilatı. Bu hizmetlerin yapılmasında, her bir kardeşimizin çok büyük bir emeği var. Gayretleriniz için, Konya’mızın yaşanabilir bir şehir olması noktasında yapmış olduğunuz çalışmalar için hepinize teşekkür ediyorum” ifadelerini kullandı.
+
+Konya Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü, hizmete alınan 24 yeni iş makinası ile daha da güçlendi.
+
+Selçuklu KOSKİ Tesislerinde düzenlenen tanıtım programında konuşan KOSKİ Genel Müdürü Ahmet Demir, “İnşallah toplumumuza, halkımıza, şehrimize altyapı hizmetlerinde daha sağlıklı, daha verimli, daha etkin bir hizmeti sürdürebilmek için bu araçlarımızın bize çok büyük katkısı olacak. Araçlarımızın Konya’ya ve Türkiye hayırlı olmasını diliyorum” diye konuştu.
+
+AK PARTİ İL BAŞKANI ÖZGÖKÇEN TEŞEKKÜR ETTİ
+
+Programa katılan AK Parti Konya İl Başkanı Fatih Özgökçen, AK Parti iktidarları döneminde Konya’nın, belediyecilik noktasında daha ileri bir seviyeye taşındığını ifade ederek, “Hep şunu söylüyoruz; Konya, belediyecilik noktasında kilometrekare olarak dünyadaki en büyük belediyecilik teşkilatı. Bu hizmetlerin yapılmasında, her bir kardeşimizin çok büyük bir emeği var. Gayretleriniz için, Konya’mızın yaşanabilir bir şehir olması noktasında yapmış olduğunuz çalışmalar için hepinize teşekkür ediyorum. Alınan iş makinelerimizin Konya’mıza hayırlı hizmetlere vesile olmasını Cenab-ı Hak’tan temenni ediyorum” ifadelerini kullandı.
+
+“KONYA BÜYÜKŞEHİR BELEDİYESİ DÜNYANIN EN BÜYÜK BELEDİYE TEŞKİLATI”
+
+Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay da yaptığı konuşmada KOSKİ Genel Müdürlüğü’nün Konya’da çok önemli işler yürüttüğünü anımsattı.
+
+KOSKİ olarak üç önemli işleri olduğunu kaydeden Başkan Altay, “Birincisi içme suyu sağlamak. Konya Büyükşehir Belediyesi dünyanın en büyük belediye teşkilatı. 42 bin kilometrekarelik alanda 31 ilçemizde 2 milyon 300 bin insanımıza temiz su sağlamak için gayret ediyoruz. Hele bu yıl olduğu gibi kurak geçen yıllarda bir taraftan mevcut sularımızı en iyi şekilde kullanmak için çaba sarf ederken bir taraftan da yeni kaynaklardan vatandaşımızı susuz bırakmamak için büyük gayret içerisindeyiz. İnşallah bu gayret içerisinde Konyalıların en sağlıklı, en güvenilir içme suyunu sağlamış olacağız. İkinci konu altyapı; yani kanalizasyon işleri. Modern dünyanın hayatımıza kazandırdığı şehirleşmede insanlardan oluşan atıkların bertaraf edilmesi çok önemli bir iş. Konya’nın bu büyük coğrafyasında neredeyse tüm mahallelerimizde yapmayı planladığımız kanalizasyon yatırımlarımızı tamamladık. Bununla birlikte topladığımız atıksuyu arıtmak için modern yöntemler uygulamanız gerekiyor. Büyükşehir olarak inşallah 2029 yılına kadar ilçelerimizin tamamında atıksu arıtma tesislerini yapmayı planlıyoruz. Şu anda planlama aşamasında sadece iki ilçemiz kaldı. Çeltik ve Emirgazi. İkisini de tamamladığımızda 31 ilçemizin tamamında ileri biyolojik arıtmaya geçmiş olacağız. Bu konuda da hizmetlerimizi tamamlamış oluyoruz. Taşkın koruma da iklim değişikliğiyle birlikte hayatımıza giren yağmur suyuyla birlikte önemli hizmetlerden birisi. Hem merkezde hem taşrada insanların aşırı yağıştan etkilenmemeleri için taşkın koruma konusunda da çalışmalar yürütüyoruz. Üçüncü olarak da bu işleri yaparken çevreye duyarlı olabilmek. Bunun için KOSKİ Genel Müdürlüğümüz öncelikle kullandığı elektriği yenilenebilir enerjiden sağlamak adına önemli bir çalışma yürütüyor. Göksu-Mavi Tünel’deki 25 megavatlık HES’imiz, onun yanına yaptığımız 3.4 megavat GES’imiz, yine Seçme Arıtma Tesisinde bulunan GES’imiz ve Büyükşehir Belediyesi ile birlikte bu yıl içinde hayata geçireceğimiz 70 megavatlık GES ile birlikte enerjimizin büyük bir kısmını artık yenilenebilir kaynaklardan üretiyor olacağız” dedi.
+
+“100 MİLYON LİRA BEDELLE 24 İŞ MAKİNESİNİ HİZMETE ALACAĞIZ”
+
+KOSKİ’nin en güçlü yanının çalışanları olduğunu belirten Başkan Altay, “Genel Müdürümüzden çaycısına kadar KOSKİ’de çalışan tüm arkadaşlarımızın bu sistemde çok büyük bir emeği var. İnsan olmadan bunları başarmak mümkün değil. İkincisi de makina ve ekipman. Bir taraftan insan kaynağımızı geliştirirken, tecrübelerimizi yeni arkadaşlara aktarırken diğer taraftan da makine ve ekipmanımızı geliştirmek için her yıl düzenli yenilemeler yapıyoruz. Bugün 100 milyon lira bedelle 24 yeni iş makinesini daha hizmete alacağız. Rabbim her türlü kazadan-beladan korusun ve şehrimize önemli hizmetler yapalım” ifadelerini kullandı.
+
+“KOSKİ HATAY’DA BÜYÜKŞEHİR BELEDİYEMİZLE BİRLİKTE ADETA GÖNÜLLERE TAHT KURDU”
+
+“Konya Modeli Belediyecilik” diye bir başarı hikayesi yazarken belediyecilik anlayışının ne kadar mükemmel olduğunu, özellikle KOSKİ’nin işini ne kadar iyi yaptığını 6 Şubat’taki Hatay depreminde bir kez daha görme ve kıyaslama imkanı bulduklarına değinen Başkan Altay, “KOSKİ, Hatay’da Büyükşehir Belediyemizle birlikte adeta gönüllere taht kurdu. Deprem konusunda kim bir şey söylüyorsa Konya Büyükşehir Belediyesi’nden bahsetmek zorunda kaldı. Çünkü orada arkadaşlarımız can siperhane çalıştılar ama bunu yaparken teknolojiyi kullandılar, bugüne kadar elde ettikleri bilgi birikimini kullandılar ve Hatay’da insanların bir an önce suya kavuşmasını, İskenderun’da bir an önce suya kavuşmasını sağlamış oldular. Böylece adeta bütün Büyükşehirler arasında yapılan değerlendirmede de Konya Büyükşehir Belediyesi ve KOSKİ bir adıma öne çıkmış oldu. Bu başarı ve birikimden dolayı tüm değerli çalışma arkadaşlarıma teşekkür ediyorum” dedi.
+
+BAŞKAN ALTAY’DAN YERLİ VE MİLLİLİK VURGUSU
+
+Hizmete alınan araçların yerli ürün olmasını ve Türkiye’de üretilmesini önemsediklerine dikkat çeken Başkan Altay, “Önceliğimiz Türkiye’de üretilen malzemeler sonra eğer imkan yoksa ithal ürün almak. Bu makinelerin büyük bir kısmı Türk malı. Kalan kısmı da Türkiye’de üretilen markalar” diye konuştu.
+
+Konya Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü bünyesine dahil edilen 100 milyon lira maliyetli iş makinaları; 12 adet beko loder, 7 adet 20 tonluk damperli kamyon, 2 adet kayar kasa, 1 adet paletli ekskavatör, 1 adet mini ekskavatör, 1 adet 10 tonluk akaryakıt tankeri.

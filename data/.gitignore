@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Üretilen veri / durum (KAYNAK DEĞİL — commit'lenmez)
+chroma_db/
+logs/
+*.log
+islenmis_dosyalar.json
+data/*_son_haber_id.txt
+
+# Sırlar
+.env
+.env.*
+!.env.example

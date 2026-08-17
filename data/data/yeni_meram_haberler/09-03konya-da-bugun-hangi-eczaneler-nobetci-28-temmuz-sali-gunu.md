@@ -1,0 +1,132 @@
+---
+kaynak: yeni_meram
+kaynak_url: https://www.yenimeram.com.tr/konya-da-bugun-hangi-eczaneler-nobetci-28-temmuz-sali-gunu/535384/
+baslik: 09:03Konya’da bugün hangi eczaneler nöbetçi? 28 Temmuz Salı günü
+yayin_tarihi: 2026-07-28
+cekilme_tarihi: 2026-07-28
+hash: d28e4678211d6e4191ab52e22fe201a5
+---
+
+# Konya'da bugün hangi eczaneler nöbetçi? 28 Temmuz Salı günü
+
+## Konya' da yaşayan vatandaşlar için nöbetçi eczane bilgileri açıklandı. 28 Temmuz Salı günü, acil ilaç ihtiyacı olanlar için şehrin farklı ilçelerinde hizmet verecek nöbetçi eczaneler belli oldu. İşte nöbetçi eczaneler ve adresleri.
+
+**1. BÖLGE (SELÇUKLU)    **
+
+NİŞANTAŞI ECZANESİ
+
+NİŞANTAŞI MAHALLESİ ŞEHİT ÖMER TAŞER SOKAK NO:15B 15A SELÇUKLU
+
+(HAZIM ULUŞAHİN İŞ MERKEZİ ARKASI DEMİRYOLU CD. ÜZERİ)                                                                                                                
+
+321 61 11
+
+**2. BÖLGE (SELÇUKLU)    **
+
+HANDE ECZANESİ
+
+AKŞEMSETTİN MAHALLESİ SARAY CADDESİ NO: 4J SELÇUKLU
+
+(BAŞKENT HASTANESİ KARŞISI)
+
+247 77 33
+
+**3. BÖLGE (MERAM - SELÇUKLU)    **
+
+NEVA ECZANESİ
+
+ALAVARDI MAHALLESİ BEYŞEHİR CADDESİ NO:183E MERAM
+
+(MERAM AKADEMİ HASTANESİ ACİL KARŞISI-TIP FAK.YOLU)
+
+324 20 20
+
+**4. BÖLGE (MERAM)    **
+
+HAVZAN ECZANESİ
+
+HAVZAN MAHALLESİ KILIKCI SOKAK NO:12B BABİL SOKAK 57A MERAM
+
+(30 NOLU HAVZAN SAĞLIK OCAĞI KARŞISI)
+
+322 10 80
+
+**5. BÖLGE (KARATAY - SELÇUKLU)    **
+
+MERVE TÜRKÖZ ECZANESİ
+
+ULUBATLI HASAN MH. KAPI SK.NO:2A KARATAY
+
+(İL JANDARMA ARKA TARAFI, METRO MARKET ARKASI)
+
+233 20 24
+
+**6. BÖLGE (MERAM - SELÇUKLU - KARATAY)    **
+
+TOPATAN ECZANESİ
+
+İHSANİYE MAHALLESİ SULTAN CEM CADDESİ BÜYÜKCERAN APT. NO:4B SELÇUKLU
+
+(ŞATOFORM KAVŞAĞI)
+
+351 75 23
+
+**7. BÖLGE (KARATAY)    **
+
+ADLİYE ECZANESİ
+
+AKABE MAHALLESİ YENİCELER CADDESİ NO: 145AC KARATAY
+
+(ADLİYE CİVARI, UYGULAMA OTELİ KARŞISI, KONYA ŞEHİR HASTANESİ CİVARI)
+
+502 63 79
+
+**8. BÖLGE (SELÇUKLU)    **
+
+MUTLU ECZANESİ
+
+FATİH MAHALLESİ BÜLBÜLLÜ SOKAK NO:88 SELÇUKLU
+
+(15 TEMMUZ KADIN VE ÇOCUK HASTANESİ YANI)
+
+0542 342 92 70
+
+**9. BÖLGE (SELÇUKLU)    **
+
+DOST ECZANESİ
+
+MALAZGİRT MAHALLESİ EYÜP SULTAN CADDESİ NO:55G SELÇUKLU
+
+(6 NOLU SAĞLIK OCAĞI KARŞISI)
+
+251 82 38
+
+**10. BÖLGE (SELÇUKLU)   **
+
+MAKBULE GÜNEŞ ECZANESİ
+
+YAZIR MAHALLESİ ULUSAL SOKAK NO:97B SELÇUKLU
+
+(AKINSOFT YANI)
+
+246 46 96
+
+**11. BÖLGE (SELÇUKLU)    **
+
+FORUM KAMPÜS ECZANESİ
+
+BOSNA HERSEK MAHALLESİ YENİ İSTANBUL CADDESİ NO:248T SELÇUKLU
+
+(SELÇUK ÜNİVERSİTESİ KARŞISI FORUM KAMPÜS AVM ALTI)
+
+0555 522 11 33
+
+**12. BÖLGE (KARATAY - MERAM)    **
+
+ELÇİN ECZANESİ
+
+ULUIRMAK MAHALLESİ MARAŞ CADDESİ NO:18A MERAM
+
+(35 NOLU FAHRUNNİSA ASM YANI 0506 093 52 62)
+
+0506 093 52 62

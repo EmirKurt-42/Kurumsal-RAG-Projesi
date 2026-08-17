@@ -1,0 +1,12 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/hidroelektrik-santrali-ile-konya-kazanacak-2021-09-06-34
+baslik: 30.09.2019HIDROELEKTRIK SANTRALI İLE KONYA KAZANACAK2019-09-30 08:13:47 Hidroelektrik Santrali İle Konya Kazanacak Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Mavi Tünel…
+yayin_tarihi: 2019-09-30
+cekilme_tarihi: 2026-07-22
+hash: 5a210fe740aa0b40d76442d93aa21533
+---
+
+| 
+ | 
+| Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Mavi Tünel çıkışında yapımını sürdürdükleri hidroelektrik santralinin KOSKİ Genel Müdürlüğü için önemli bir gelir kaynağı olacağını söyledi. Çalışmaları yerinde inceleyen Başkan Altay, hidroelektrik santralinde 20 bin haneli bir yerleşim yerinin ihtiyacına tekabül edecek elektrik üretileceğini ve projenin 5 yıl içinde kendini amorti edeceğini ifade etti. Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü tarafından yapımı sürdürülen hidroelektrik santralinde incelemelerde bulundu. Konya’nın en önemli yatırımı olan Konya Ovası Projesi’nin (KOP) hızla ilerlediğini belirten Başkan Altay, “Bildiğiniz gibi KOP’la hem Konya’nın içme suyunu karşılıyoruz hem de tarımsal sulamada 414 milyon metreküp su yapılan barajlarla Konya ovasına aktarılmış olacak. Bunun yanında, Sayın Cumhurbaşkanımızın direktifleri ve bir Konya hediyesi olarak şu anda Mavi Tünel çıkışına hidroelektrik santrali inşa ediyoruz. 25 megavat gücündeki hidroelektrik santrali için 85 milyon lira tutarında ihaleler tamamlandı. İnşallah Nisan ayı gibi burada elektrik üretmeyi planlıyoruz” dedi. Mavi Tünel Hidroelektrik Santralinde 20 bin haneli bir yerleşim yerinin ihtiyacına tekabül edecek elektrik üretileceğini kaydeden Başkan Altay, “Bu, KOSKİ için çok önemli gelir kaynağı oluşturacak. 5 yıl içinde projenin kendini amorti etmesini bekliyoruz. KOP kapsamında hem Konya’ya memba suyu kalitesinde içme suyu temin ediyoruz hem de buradan oluşacak elektrik enerjisi ile KOSKİ’ye ekonomik anlamda katkı sağlamış olacağız. Çalışmalar yoğun bir şekilde devam ediyor” ifadelerini kullandı. Konya Ovası Projesi’nin tamamlanması için de çalışmaların devam ettiğini kaydeden Başkan Altay, “Şu anda Dedemli’nin taşınma sürecini ve ikinci etap tünelin yapılması ile ilgili projeleri takip ediyoruz. İnşallah 2020’nin sonunda tamamlanmış olacak ve Konya Ovasına 414 milyon metreküp suyu aktarmaya başlamış olacağız. Şehrimize hayırlı olmasını temenni ediyorum” diye konuştu. |

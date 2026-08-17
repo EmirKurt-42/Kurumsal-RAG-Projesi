@@ -1,0 +1,205 @@
+---
+kaynak: yeni_meram
+kaynak_url: https://www.yenimeram.com.tr/konya-nin-bu-mahallelerinde-elektrik-olmayacak-8-agustos-cumartesi/535827/
+baslik: Konya'nın bu mahallelerinde elektrik olmayacak! 8 Ağustos Cumartesi
+yayin_tarihi: 2026-08-07
+cekilme_tarihi: 2026-08-10
+hash: 517bc4dc95495b1d070956c927350f78
+---
+
+# Konya'nın bu mahallelerinde elektrik olmayacak! 8 Ağustos Cumartesi
+
+## Meram Elektrik Dağıtım Şirketi (MEDAŞ) üzerinden alınan bilgilere göre, 8 Ağustos Cumartesi günü planlı elektrik kesintisi yaşayacak. Merkez ilçelerdeki elektrik kesintisine uğrayacak mahalle, sokak ve saatleri belli oldu. İşte detaylar..
+
+**SELÇUKLU'DA YAŞANACAK KESİNTİLER**
+
+| 08.08.2026 01:00 - 08.08.2026 02:00 tarihleri arasında Manevra Çalışması nedeni ile | ||||
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | AHMET HİLMİ NALÇACI Caddesi | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | BUHARİ Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | ÇIRAĞAN Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | DEMİRYOLU Caddesi | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | GÖKHAN Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | GÜRDAL Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | GÜVENCE Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | KERKÜK Caddesi | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | KURTUBA Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | SONÇARE Sokak | |
+| KONYA | SELÇUKLU | FERİTPAŞA MAHALLESİ | YASEMEN Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | ABDÜLSELİM Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | ADNAN MENDERES Caddesi | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | GÖKLER Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | GÖKYER Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | GÜLDAĞ Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | GÜLLÜCE Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | HAL 1 Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | HAL 2 Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | HAMMER Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | HARSUVA Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | TORTUM Sokak | |
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | YANAL Sokak | |
+| 08.08.2026 08:30 - 08.08.2026 09:30 tarihleri arasında Bakım Çalışması nedeni ile | ||||
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | FUAR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | GENÇTÜRK Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | GÖKTÜRK Sokak | |
+| 08.08.2026 09:30 - 08.08.2026 11:00 tarihleri arasında Şebeke Bakımı nedeni ile | ||||
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | COŞKUNPINAR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ÇİLE Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | PÜLÜMÜR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ŞEHİT ABDULLAH TAYYİP OLÇOK Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ZİHNİYET Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | FİKRET Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | GÜMÜŞ Caddesi | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | KILIÇTAŞ Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | KÜÇÜKPAZAR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | MERAMÇAYI Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ÖZTEMİZLER Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ŞEHİT ABDULLAH TAYYİP OLÇOK Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | TEKKE Sokak | |
+| 08.08.2026 09:30 - 08.08.2026 17:30 tarihleri arasında Yeni Tesis Yapılması nedeni ile | ||||
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ASILZADE Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ASMALI Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | BAŞARAN Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | CANTÜRK Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | CENNET Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | EBUZER Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ERENKÖY Caddesi | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ERKOÇAK Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | FARUK Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | GÜNIŞIĞI Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | KARLIBEL Caddesi | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | KUTUP Caddesi | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | NAZENDE Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | RİVAYET Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | YAYLA Sokak | |
+| 08.08.2026 11:00 - 08.08.2026 12:00 tarihleri arasında Şebeke Bakımı nedeni ile | ||||
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ÇİLE Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ESENÇAY Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | KAHRAMANLAR Caddesi | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | KİMYACI SOKAK Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | KOÇYAKA Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | MAMUR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | NURULLAH Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | SERİNYER Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | SUNARLAR Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ŞEHİT MURAT GÜNDÜZ Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | TANRIÖVER Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | TEKDERE Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | ULUIŞIK Sokak | |
+| KONYA | SELÇUKLU | SELAHADDİNİ EYYUBİ MAHALLESİ | YENİ YÜZYIL Caddesi | |
+| 08.08.2026 13:00 - 08.08.2026 14:00 tarihleri arasında Şebeke Bakımı nedeni ile | ||||
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ABBAS Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | BATIHAN Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ERENLER Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ŞAFAK Caddesi | |
+| 08.08.2026 13:00 - 08.08.2026 18:00 tarihleri arasında Yeni Tesis Yapılması nedeni ile | ||||
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | ATARDAMAR Sokak | |
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | KALETAŞ Caddesi | |
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | ÖZAKINLAR Sokak | |
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | SUGÖREN Sokak | |
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | ŞEMSİ EFENDİ Sokak | |
+| KONYA | SELÇUKLU | PARSANA MAHALLESİ | ZÜMRÜTOVA Sokak | |
+| KONYA | SELÇUKLU | SİLLE MAHALLESİ | KARATAŞ Sokak | |
+| 08.08.2026 14:00 - 08.08.2026 17:00 tarihleri arasında Özel Elektrikçi Mühendis Çalışması nedeni ile | ||||
+| KONYA | SELÇUKLU | MUSALLA BAĞLARI MAHALLESİ | GÜRZ Sokak | |
+| 08.08.2026 14:00 - 08.08.2026 17:00 tarihleri arasında Şebeke Bakımı nedeni ile | ||||
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ABBAS Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ANTİK Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | BATIHAN Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ERENLER Sokak | |
+| KONYA | SELÇUKLU | YAZIR MAHALLESİ | ULUSAL Sokak | |
+| 08.08.2026 16:30 - 08.08.2026 18:00 tarihleri arasında Yeni Tesis Yapılması nedeni ile | ||||
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ACIGÖL Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ACIPAYAM Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ADİLDÜZEN Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ALTINKALEM Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | AMBERAĞACI Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | BAĞDATGÜLÜ Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | BARIŞ. Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | CENNET Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ÇEVİKBAŞ Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | EĞİTMEN Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | ERENKÖY Caddesi | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | GÜMÜŞÇEŞME Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | GÜNKAPISI Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | HUZUR Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | NAĞME Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | OZANLAR Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | POLATLI Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | SİLLE ŞEHİR Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | SİNEM Sokak | |
+| KONYA | SELÇUKLU | ERENKÖY MAHALLESİ | TERTİP Sokak | |
+| KONYA | SELÇUKLU | HANAYBAŞI MAHALLESİ | ŞENGÜLER Sokak | |
+| KONYA | SELÇUKLU | SAKARYA MAHALLESİ | FER Sokak | |
+
+**MERAM'DA YAŞANACAK KESİNTİLER**
+
+| 08.08.2026 01:00 - 08.08.2026 03:30 tarihleri arasında Bakım Çalışması nedeni ile | ||||
+| KONYA | MERAM | UZUNHARMANLAR MAHALLESİ | HASANKÖY Caddesi | |
+| 08.08.2026 09:00 - 08.08.2026 17:00 tarihleri arasında Şebeke Bakımı nedeni ile | ||||
+| KONYA | MERAM | ALAVARDI MAHALLESİ | ABDÜLFETTAH Sokak | |
+| KONYA | MERAM | ALAVARDI MAHALLESİ | GÜRTUNA Sokak | |
+| KONYA | MERAM | ALAVARDI MAHALLESİ | SİVASLI ALİ KEMAL Caddesi | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | 17313. Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | ALTINÇİMEN Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | AZİZ MAHMUT HÜDAİ Caddesi | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | BELLİ Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | CEYLAN. Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | ÇAMKÖYÜ Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | ÇAMLIK Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | ÇİFTLİK Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | FATİHLER Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | GÜLHAN Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | HEKİMSADRİ Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | HOCAFAKIH Caddesi | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | İTİBAR Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | MİĞFER Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | MİMARYUSUF Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | OSMANİYE Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | TECVİT Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | TUNÇ Sokak | |
+| KONYA | MERAM | MELİKŞAH MAHALLESİ | ULUSÖZ Sokak | |
+| 08.08.2026 09:30 - 08.08.2026 17:30 tarihleri arasında Küçük Ek Tesis Çalışması nedeni ile | ||||
+| KONYA | MERAM | GÖDENE MAHALLESİ | 17331. Sokak | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | 17337. Sokak | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | 17338. Sokak | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | 17469. Sokak | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | KÜÇÜKKIR Sokak | |
+| KONYA | MERAM | GÖDENE MAHALLESİ | MEMLEKET Caddesi | |
+
+**KARATAY'DA YAŞANACAK KESİNTİLER**
+
+| 08.08.2026 09:00 - 08.08.2026 12:30 tarihleri arasında Bakım Çalışması nedeni ile | ||||
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | AKDENİZ Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | BOLLUK Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | HÜRMETLİ Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | KALENDER Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | KALFALAR SOKAK Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | KATAR BAŞI Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | MERTEBE Sokak | |
+| 08.08.2026 09:15 - 08.08.2026 17:15 tarihleri arasında Yeni Tesis Yapılması nedeni ile | ||||
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | BAŞHÜYÜK Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | BATIHAN Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | BUDAK Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | DEMİREĞER Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | ETKİN Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | MENZİL Caddesi | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | MİLLİLER Caddesi | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | ÖZÜTOPRAK Sokak | |
+| KONYA | KARATAY | GAZİOSMANPAŞA MAHALLESİ | SARICAMİ Sokak | |
+| 08.08.2026 09:30 - 08.08.2026 14:30 tarihleri arasında Trafo Bakımları nedeni ile | ||||
+| KONYA | KARATAY | SÜRÜÇ MAHALLESİ | SÜRÜÇ Caddesi | |
+| KONYA | KARATAY | YENİCE MAHALLESİ | AKSARAY ÇEVRE YOLU Caddesi | |
+| 08.08.2026 13:00 - 08.08.2026 16:00 tarihleri arasında Bakım Çalışması nedeni ile | ||||
+| KONYA | KARATAY | ERLER MAHALLESİ | BALKABAĞI Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | ARSLANŞAH Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | BALKAPANI Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | BATIÇAY Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | BEYAT Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | ÇELİKZADE Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | PAŞMAKÇIZADE SOKAK Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | SAYGI Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | ŞEHİT ALİ BİROL SOKAK Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | YAZIKÖY Sokak | |
+| KONYA | KARATAY | SARAÇOĞLU MAHALLESİ | YÜZÜAK Sokak | |
+| 08.08.2026 14:00 - 08.08.2026 17:00 tarihleri arasında Özel Elektrikçi Mühendis Çalışması nedeni ile | ||||
+| KONYA | KARATAY | ŞATIR MAHALLESİ | KONYA EREĞLİ Caddesi | |

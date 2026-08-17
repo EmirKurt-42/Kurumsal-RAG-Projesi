@@ -1,0 +1,28 @@
+---
+kaynak: merhaba_haber
+kaynak_url: https://www.merhabahaber.com/og-derden-konyadaki-kultur-yolu-festivaline-tepki-1950441h.htm
+baslik: ÖĞ-DER'den Konya'daki 'Kültür Yolu Festivali'ne tepki!
+yayin_tarihi: 2026-07-24
+cekilme_tarihi: 2026-07-28
+hash: d2cee94097d0044d3798331a33e8d718
+---
+
+# ÖĞ-DER'den Konya'daki 'Kültür Yolu Festivali'ne tepki!
+
+ÖĞ-DER Konya Şube Başkanı Yavuz Aydın, “Konya, sadece bir şehir değildir. Konya; Selçuklu’nun başkenti, Mevlânâ’nın irfan ocağı, Sadreddin Konevî’nin hikmet mektebi, medeniyetimizin ruhunu asırlardır yaşatan kutlu bir beldedir. Böylesine müstesna bir şehrin, “kültür” adı altında milletimizin inancıyla, ahlakıyla ve medeniyet tasavvuruyla bağdaşmayan etkinliklerle gündeme gelmesini büyük bir üzüntüyle karşılıyoruz” diye konuştu.
+
+**ÖNCE AHLAK VE MANEVİYAT VURGUSU**
+
+Aydın, “Şuurlu Öğretmenler Derneği olarak ifade ediyoruz ki; kültür, sadece eğlenmek değildir. Kültür; bir milletin şahsiyetidir tarihidir örfüdür, imanıdır, ahlakıdır ve istikbalidir. Hz Peygamber Efendimiz (SAV) “Kim bir kavme benzerse o da onlardandır.” buyurmaktadır. “Bir milleti yok etmek isterseniz askerî istilâya lüzum yoktur. Ona tarihini unutturmak, dilini bozmak, dininden soğutmak ve dolayısıyla mânevî değerlerini, ahlâkını soysuzlaştırmak kâfîdir.” Bugün ne yazık ki gençliğimize sunulan eğlence modeli; üretmeyen, düşündürmeyen, şahsiyet kazandırmayan, sadece tüketen ve taklit eden bir anlayışı teşvik etmektedir. Kendi özümüzün ifadesiyle bu, taklitçi zihniyetin kültür politikasıdır. Oysa Erbakan Hocamızın hedef gösterdiği gençlik; “Önce ahlak ve maneviyat” şuuruyla yetişen, ilmi rehber edinen, milletine hizmet etmeyi hayatının gayesi bilen, kendi medeniyet değerleriyle barışık bir gençliktir. Bugün “sanatçı” sıfatıyla gençlerimize örnek gösterilen bazı isimlerin; hayat tarzları, kullandıkları dil, ortaya koydukları yaşam biçimi ve temsil ettikleri kültürel anlayış bakımından milletimizin milli ve manevi değerlerini temsil ettiğini söylemek mümkün değildir” ifadelerini kullandı.
+
+**‘BATI MERKEZLİ POPÜLER KÜLTÜRE KARŞIYIZ’**
+
+“Gençlerimizin örnek alacağı şahsiyetler; sadece alkışlanan değil, aynı zamanda ahlakıyla, ilmiyle, edebiyle, ailesine ve milletine bağlılığıyla örnek olan kimseler olmalıdır” diyen Yavuz Aydın, şunları söyledi: “Çünkü eğitim sadece okul sıralarında verilen derslerden ibaret değildir. Konser alanları da eğitimdir. Sahne de eğitimdir. Sosyal medya da eğitimdir. Rol modeller de eğitimdir. Ve eğitim, karakter inşasıdır. Bugün Batı merkezli popüler kültür; sınırsız eğlenmeyi, tüketmeyi, haz odaklı yaşamayı ve her türlü sınırı aşmayı özgürlük olarak sunmaktadır. Bizler ise bunun tam karşısında; Sorumluluğu, aileyi, edebi, iffeti, üretmeyi, paylaşmayı ve insanı yüceltmeyi esas alan bir medeniyet anlayışını savunmaktadır. Merhum Erbakan Hocamızın şu tespiti bugün her zamankinden daha fazla önem taşımaktadır: “Bir ülkenin en büyük gücü tankı, topu veya parası değildir. En büyük gücü, inançlı ve şahsiyet sahibi nesilleridir.” İşte bu sebeple kültür politikaları da nesil inşa etme sorumluluğuyla şekillenmelidir. Bizim medeniyetimizde kültür; Yunus Emre’dir, Mevlânâ’dır, Hacı Bektaş-ı Veli’dir, Akşemseddin’dir, Mimar Sinan’dır, Itrî’dir, Dede Efendi’dir, Karacaoğlan’dır, Âşık Veysel’dir.”
+
+**‘YOZLAŞTIRICI ETKİNLİKLERDEN DERHAL VAZGEÇİLMELİ’**
+
+ÖĞ-DER Konya Şube Başkanı Yavuz Aydın, konuşmasını şu sözlerle tamamladı: “Medeniyetimizin sanat anlayışı; insanı nefsinin esiri yapan değil, Rabbine yaklaştıran, gönlünü incelten, ahlakını güzelleştiren sanat anlayışıdır. Bugün ihtiyaç duyduğumuz şey, gençlerimizi köksüzleştiren kültür politikaları değil; kökleriyle buluşturan irfan seferberliğidir. Konya’mızın ve aziz milletimizin dokusuna uymayan, gençlerimizi yanlış mecralara sürükleyen bu tür yozlaştırıcı etkinliklerden derhal vazgeçilmelidir. Bütçeler ve imkânlar, gençliğin ahlaki ve zihni ihya projesine tahsis edilmelidir. Bu sebeple yetkililere çağrımızdır: Kültür politikaları, milletimizin inanç ve medeniyet değerlerini esas almalıdır. Konya’nın manevi kimliğine uygun kültür ve sanat programları hazırlanmalıdır. Gençlerimizi popüler kültürün tüketicisi değil, kendi medeniyetimizin üreticisi hâline getirecek projeler desteklenmelidir. Musiki, edebiyat, tiyatro, geleneksel sanatlar, kitap, fikir ve ilim merkezli faaliyetlere daha fazla önem verilmelidir. Eğitim kurumlarımız; sadece akademik başarı değil, ahlak, karakter ve şahsiyet eğitimini de merkeze almalıdır. Aileyi güçlendiren, milli birlik ve kardeşliği pekiştiren kültürel faaliyetler teşvik edilmelidir. Biz inanıyoruz ki; Bir milletin gerçek kalkınması, binaların yükselmesiyle değil; ahlaklı, şuurlu ve şahsiyet sahibi nesiller yetiştirmesiyle mümkündür. Milletimizin temel hedefi olan “Yaşanabilir Bir Türkiye, Yeniden Büyük Türkiye ve Yeni Bir Dünya” idealine ulaşmanın yolu da; önce ahlak ve maneviyat eksenli bir eğitim ve kültür anlayışını hâkim kılmaktan geçmektedir. Şuurlu Öğretmenler Derneği olarak; bütün eğitimcileri, anne-babaları, sivil toplum kuruluşlarını ve kamu yöneticilerini, gençliğimizin milli kimliğini, manevi şahsiyetini ve kültürel istikbalini koruyacak adımları birlikte atmaya davet ediyoruz. Bir milletin istikbali, gençliğinin taşıdığı inanç, ahlak ve kültürle doğru orantılıdır.”
+
+Kaynak:Haber Merkezi
+
+UYARI:Küfür, hakaret, rencide edici cümleler veya imalar, inançlara saldırı içeren, imla kuralları ile yazılmamış,Türkçe karakter kullanılmayan ve büyük harflerle yazılmış yorumlar onaylanmamaktadır.

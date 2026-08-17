@@ -1,0 +1,49 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/baskan-altay-yer-ustunde-hayata-gecirdigimiz-buyuk-eserler-gibi-yerin-altina-da-konya-modeli-belediyecilik-muhrunu-vuruyoruz-2026-06-15-32
+baslik: 15.06.2026BAŞKAN ALTAY: “YER ÜSTÜNDE HAYATA GEÇİRDİĞİMİZ BÜYÜK ESERLER…Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, düzenlediği basın toplantısıyla KOSKİ Genel Müdürlüğü tarafından 31 ilçede…
+cekilme_tarihi: 2026-07-14
+hash: f04e70e94ba2443340fbb5e556137d69
+---
+
+Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, düzenlediği basın toplantısıyla KOSKİ Genel Müdürlüğü tarafından 31 ilçede hayata geçirilen yatırımları ve yürütülen projeleri değerlendirdi. Sadece 2025 yılında başlanan, tamamlanan ve devam eden toplam KOSKİ yatırım bedelinin 4 milyar lira olduğunu kaydeden Başkan Altay, 2018 yılından bugüne ise KOSKİ yatırım tutarının 27 milyar 662 milyon lira olarak gerçekleştiğini söyledi. Konya’yı her alanda parlayan, altyapısıyla örnek gösterilen, her bir ferdinin yaşamaktan gurur duyduğu bir dünya şehri haline getirmek için çalıştıklarını vurgulayan Başkan Altay, “Paylaştığımız her başlık; aslında yerin altında görünmeyen emeğin, gece gündüz çalışan bir iradenin ve bu şehre hizmet etme aşkımızın birer sembolüdür. Merhum Necip Fazıl; ‘Devler gibi eserler bırakmak için, karıncalar gibi çalışmak gerekir’ diyor. Bizler de şehrimiz için gece gündüz karıncalar gibi çalıştık, çalışmaya devam ediyoruz. Allah’ın izniyle; yer üstünde hayata geçirdiğimiz büyük eserler gibi yerin altına da; suya, toprağa ve her yere Konya Modeli Belediyecilik mührünü vuruyoruz. Vizyonuyla ve desteğiyle yolumuzu aydınlatan Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan başta olmak üzere; her projemize destek veren Çevre, Şehircilik ve İklim Değişikliği Bakanımız, hemşehrimiz Sayın Murat Kurum’a, değerli milletvekillerimize, İLBANK’a, ilçe belediyelerimize, teşkilat mensuplarımıza, birlikte çalıştığımız tüm kurum ve kuruluşlara, sahada emek veren tüm çalışma arkadaşlarımıza ve her daim desteğini yanımızda hissettiğimiz kıymetli hemşehrilerime gönülden teşekkür ediyorum” diye konuştu.
+
+Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, KOSKİ Genel Müdürlüğü’nün 31 ilçede hayata geçirdiği yatırımları ve yürüttüğü projeleri değerlendirdiği bilgilendirme toplantısı gerçekleştirdi.
+
+Büyükşehir Belediyesi Taş Bina Kültür Sanat’ta düzenlenen programda Başkan Altay, küresel iklim değişikliğinin tüm insanlığı etkileyen en önemli meselelerden biri olduğunu belirterek, “Özellikle Konya olarak bu hususta çok büyük tehditlerle karşı karşıyayız. Bizler de bu tehdidin etkilerini azaltmak için çok sayıda önemli projeyi hayata geçiriyoruz” dedi.
+
+“ŞEHRİMİZİ SUSUZ BIRAKMAMAK İÇİN YENİ SU KUYULARI VE GRUP SUYU PROJELERİNİ HAYATA GEÇİRDİK”
+
+İklim değişikliği ile birlikte kuraklık riskinin, Konya’nın tarımını, su kaynaklarını ve günlük hayatını doğrudan tehdit ettiğine değinen Başkan Altay, “Bu nedenle suyumuzu koruyan, tasarrufu büyüten, kaynaklarımızı güçlendiren tedbirleri önceden almaya çalışıyoruz. Şehrimize şu anda su temin ettiğimiz üç barajımız var: Bunlardan biri Altınapa Barajı, diğerleri ise Bozkır ve Bağbaşı Barajları. Altınapa Barajı’nın şu anki doluluk oranı yüzde 70; Bozkır Barajı’nın yüzde 50; Bağbaşı Barajı’nın ise yüzde 22. Özellikle geçtiğimiz yaz bu oranlar çok daha düşük seviyelerdeydi. Bizler de bu durumu önceden görerek harekete geçtik ve şehrimizi susuz bırakmamak için yeni su kuyuları ve grup suyu projelerini hayata geçirdik” ifadelerini kullandı.
+
+KOSKİ TARİHİNİN EN YÜKSEK BÜTÇELİ YATIRIMININ MÜJDESİNİ VERDİ
+
+Konuşmasında şehrin geleceğiyle ilgili Konyalılarla bir de müjde paylaşan Başkan Altay, “Bildiğiniz gibi, 2009 yılından bu yana şehir merkezimizde hizmet veren Konya Atık Su Arıtma Tesisimiz, 200 bin metreküp kapasiteyle atık suların arıtımını sağlayarak çevreye büyük bir katkı sağlıyor. Bizler de şehrimizin gelişimine ve nüfus artışına paralel olarak tesisimizin rehabilitasyonu ve ikinci kademe inşaatının yapımına yakın zamanda başlayacağız inşallah. Dünya Bankası, İller Bankası ve KOSKİ Genel Müdürlüğümüzün yürüttüğü bu proje tamamlandığında Konya Atık Su Arıtma Tesisimizin kapasitesi günlük 200 binden, 400 bin metreküpe çıkacak. Şehrimizin uzun yıllar atık su arıtma sorununu çözmüş olacağız. KOSKİ tarihinin en yüksek bütçeli yatırımı olan bu büyük projeyle ilgili önümüzdeki haftalarda geniş bir bilgilendirme toplantısı yapacağız inşallah” dedi.
+
+2018’DEN BU YANA ŞEHRE KAZANDIRILAN KOSKİ YATIRIMI 27 MİLYAR 662 MİLYON LİRA
+
+Konya’da 2018 yılından bugüne kadar 3 bin 646 kilometre yeni su şebekesi ve ıslah çalışma yaptıklarını yine aynı süreçte 1.198 kilometre de yeni kanalizasyon şebekesi ve ıslah çalışması yaptıklarını aktaran Başkan Altay, “Göreve geldiğimiz günden bugüne kadar su ve kanalizasyon şebekesi ve ıslah çalışmalarımız için 16 milyar 86 milyon lira harcadık. 31 ilçemizde 2025 yılında başladığımız, tamamlanan ve devam eden toplam KOSKİ yatırım bedelimiz 4 milyar liradır. Göreve geldiğimiz 2018 yılından bugüne ise bu rakam 27 milyar 662 milyon lira olarak gerçekleşti. Tüm imkân ve kabiliyetimizle şehrimizi çok daha güçlü yarınlara taşımaya devam edeceğiz” ifadelerine yer verdi.
+
+“KOSKİ, OLASI MARMARA DEPREMİNE YÖNELİK HAZIRLIKLAR KAPSAMINDA ÖNEMLİ BİR SORUMLULUK ÜSTLENDİ”
+
+Başkan Altay, KOSKİ Genel Müdürlüğü’nün Hatay’da gerçekleştirdiği örnek çalışmalara ve AFAD tarafından verilen yeni görevden bahsederek şunları söyledi:
+
+“KOSKİ’mizin o zor süreçte Hatay’da yaptığı; her hat onarımı, her su temini, her altyapı müdahalesi; Hatay’ın yeniden ayağa kalkma iradesine verilen bir destek, ‘yalnız değilsiniz’ sözünün sahadaki karşılığı oldu. Ekiplerimiz depremin hemen sonrasında Hatay’a ulaşarak hızlı şekilde tüm altyapı sorunları için çözüm üretti, tüm Türkiye’de takdir topladı. Bugün ise, KOSKİ Genel Müdürlüğümüz, olası Marmara depremine yönelik hazırlıklar kapsamında önemli bir sorumluluk üstlendi. Türkiye Afet Müdahale Planı çerçevesinde, afet yönetimini daha etkin hale getirmek amacıyla İstanbul 6 stratejik bölgeye ayrıldı. Bu planlama kapsamında Konya’mız; İzmir, Samsun ve Antalya ile birlikte 2. Bölge Destek İli olarak görevlendirildi. Allah göstermesin ama olası bir afet sonrasında meydana gelebilecek altyapı hasarlarına ekiplerimiz müdahale edecek. Ayrıca, olası deprem sonrasında kurulacak geçici ve kalıcı barınma alanlarının su ve kanalizasyon altyapılarının oluşturulmasında da görev yapacak.”
+
+GES VE HES KURULU GÜCÜNDE LİDER
+
+Konuşmasında Konya Büyükşehir Belediyesi KOSKİ Genel Müdürlüğü bünyesinde yürütülen Güneş Enerji Santrali (GES) ve Hidroelektrik Santrali (HES) çalışmalarından da bahseden Başkan Altay, “Tamamlanan, devam eden ve planladığımız yatırımlarla birlikte, sadece KOSKİ Genel Müdürlüğümüzün GES ve HES kurulu gücü 100 Megavat olacaktır. Bu da ülkemizdeki su ve kanalizasyon idareleri arasında Konya’mızı lider konuma yükseltecektir” ifadelerini kullandı.
+
+“YER ÜSTÜNDE HAYATA GEÇİRDİĞİMİZ BÜYÜK ESERLER GİBİ YERİN ALTINA DA; SUYA, TOPRAĞA VE HER YERE KONYA MODELİ BELEDİYECİLİK MÜHRÜNÜ VURUYORUZ”
+
+Konya’yı her alanda parlayan, altyapısıyla örnek gösterilen, her bir ferdinin yaşamaktan gurur duyduğu bir dünya şehri haline getirmek için çalıştıklarını vurgulayan Başkan Altay, “Bunun için gece gündüz demeden canla başla çalışmaya devam ediyoruz. Tüm imkân ve kabiliyetimizle şehrimizi çok daha güçlü yarınlara taşımaya devam edeceğiz” dedi.
+
+Başkan Altay, şöyle devam etti: “Paylaştığımız her başlık; aslında yerin altında görünmeyen emeğin, gece gündüz çalışan bir iradenin ve bu şehre hizmet etme aşkımızın birer sembolüdür. Merhum Necip Fazıl; ‘Devler gibi eserler bırakmak için, karıncalar gibi çalışmak gerekir’ diyor. Bizler de şehrimiz için gece gündüz karıncalar gibi çalıştık, çalışmaya devam ediyoruz. Konya’mıza duyduğumuz hürmet ve vefa borcunu; hizmet ve gayret ziynetiyle süslüyoruz. Allah’ın izniyle; yer üstünde hayata geçirdiğimiz büyük eserler gibi yerin altına da; suya, toprağa ve her yere Konya Modeli Belediyecilik mührünü vuruyoruz. Şunu özellikle ifade etmek isterim: Konya, büyük bir şehir olmanın sorumluluğunu, büyük bir medeniyetin vakarını taşır. Bizim de görevimiz; bu vakara yakışır bir titizlikle, yaptığımız her işte güveni pekiştirmek ve geleceğe sağlam bir altyapı bırakmaktır. Bu vesileyle; vizyonuyla ve desteğiyle yolumuzu aydınlatan Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan başta olmak üzere; her projemize destek veren Çevre, Şehircilik ve İklim Değişikliği Bakanımız, hemşehrimiz Sayın Murat Kurum’a, değerli milletvekillerimize, İLBANK’a, ilçe belediyelerimize, teşkilat mensuplarımıza, birlikte çalıştığımız tüm kurum ve kuruluşlara, sahada emek veren tüm çalışma arkadaşlarımıza ve her daim desteğini yanımızda hissettiğimiz kıymetli hemşehrilerime gönülden teşekkür ediyorum. Rabbim birliğimizi, dirliğimizi daim eylesin; şehrimizi ve ülkemizi her türlü afetten ve sıkıntıdan muhafaza buyursun.”
+
+KOSKİ YATIRIMLARINDAN VE PROJELERİNDEN BAHSETTİ
+
+Başkan Altay toplantıda ayrıca; atık su arıtma tesisleri, Mor Şebeke, metan gazından elektrik üretimi, Beyşehir Gölü, Tuz Gölü ve Meke Gölü’nü Koruma Çalışmaları, Kanalizasyon Master Planı, taşkın göletleri, SCADA, Su Yönetimi Yazılımı, tarımsal sulama yatırımları, KOSKİ Coğrafi Bilgi Sistemi, BEYSU Doğanbey Üretim Tesisi gibi pek çok KOSKİ projesinden ve hizmetinden detaylı bilgiler de verdi.
+
+Programın son bölümde Başkan Altay, basın mensuplarının sorularını da cevapladı.
+
+Toplantıya; AK Parti Konya Milletvekili Mustafa Hakan Özer, Selçuklu Belediye Başkanı Ahmet Pekyatırmacı, Karatay Belediye Başkanı Hasan Kılca, Meram Belediye Başkanı Mustafa Kavuş, Hüyük Belediye Başkanı Sadık Sefer, AK Parti Konya İl Başkan Yardımcısı Kazım Küçükçöğen, AK Parti İl Kadın Kolları Başkanı Özlem Yılmaz, İller Bankası Konya Bölge Müdürü Sedat Yılmaz, Çevre, Şehircilik ve İklim Değişikliği İl Müdürü Fatih Ayaz, Meteoroloji 8. Bölge Müdürü Ahmet Tiryaki de katıldı.

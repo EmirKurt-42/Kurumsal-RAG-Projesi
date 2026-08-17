@@ -1,0 +1,39 @@
+---
+kaynak: merhaba_haber
+kaynak_url: https://www.merhabahaber.com/ince-minareli-medresenin-tac-kapisi-goz-gore-gore-eriyor-1856497h.htm
+baslik: İnce Minareli Medrese’nin taç kapısı göz göre göre eriyor
+yayin_tarihi: 2022-08-09
+cekilme_tarihi: 2026-07-22
+hash: 64c0a46e51b5251d618a4c020370cf09
+---
+
+# İnce Minareli Medrese’nin taç kapısı göz göre göre eriyor
+
+**Ahmet KUŞ**
+
+**İnce Minareli Medrese’nin taç kapısı göz göre göre eriyor**
+
+İnce Minareli Medrese, Konya’da Selçuklu döneminden günümüze ulaşmış birkaç abidevî yapıdan birisidir. Yapıldığı dönemde dış kale surları içerisinde yer alan medrese günümüzde Konya’nın Selçuklu şehri kimliğini en iyi yansıtan az sayıdaki eserden birisidir. Cumhuriyet devrine kadar medrese olarak hizmet veren yapı şu anda Taş ve Ahşap Eserleri Müzesi olarak kullanılıyor. Medrese ünlü Selçuklu Veziri Sahip Ata Fahreddin Ali tarafından hadis ilmi okutulmak amacıyla XIII. yüzyılda yaptırılmıştır. Genellikle yıkılmadan önceki ince uzun minaresine istinaden İnce Minareli Medrese adıyla bilinen yapının asıl adı Sahip Ata Dârülhadisi’dir. Medresenin bitişiğinde yer alan iki şerefeli minaresinin birinci şerefeden üstü 1901 yılında yıldırım düşmesi sebebiyle yıkılmıştır. Yıkılan minare yan tarafında bulunan mescidin kubbesine de zarar vermiştir.
+
+**İNCE MİNARELİ MEDRESE’NİN TARİHİ**
+
+Sahip Ata Fahreddin Ali bu hayır manzumesini Konya iç kalesinin dışına, kale hendeğinin hizasına yaptırmıştır. Selçuklu Sarayı’nın ‘Bab-ı Sultan’, ‘Derb-i Sultan’ adlarıyla bilinen Sultan Kapısı bu mamurenin önünden geçen yola açılırdı. Medresenin mimarı ise taç kapı üzerindeki iki madalyon içerisinde adı yazılı olan Kölük bin Andullah’tır. Mimar Kölük bin Abdullah hakkında pek fazla bilgi olmasa da Selçuklu devrinde Konya’da yaşayan bir gayrimüslim olduğu, Müslüman olduktan sonra bu adı kullanmaya başladığı ve ömrünün sonuna kadar da Konya’da yaşadığı biliniyor. Cami, türbe, hankah ve hamamdan oluşan Sahip Ata Külliyesi ve Nalıncı Baba (Emir Nizameddin) Türbesi de Kölük bin Abdullah tarafından yapılmıştır. Ortaya koyduğu abidevî eserlerden de anlaşılacağı gibi Kölük bin Abdullah, Selçuklu döneminde Konya’da yaşayan en gözde mimarlardan biridir.
+
+Medreseyle ilgili olarak 1264 yılında Arapça bir vakfiye düzenlenmiş, bu vakfiyeye 1265 ve 1280 yıllarında iki ilave yapılmıştır. 1264 yılındaki ilk vakfiyede medresenin adı imaret olarak geçmekte, mescit ve minareden de ayrı ayrı bahsedilerek muhtelif yerlerdeki bağ, bahçe, tarla, dükkân gibi vakıf gelirlerinden her birine pay ayrılmaktadır. Selçuklu döneminde olduğu gibi yapı Osmanlı döneminde de amacına uygun olarak kullanılmıştır. Asırlar boyunca hadis ilmi okutulan medrese Cumhuriyet döneminde 1924 yılında tekke ve zaviyeler kanununun çıkmasıyla birlikte pek çok ecdat yadigârı gibi kaderine terk edilmiş ve daha sonra da 1956 yılında müzeye çevrilmiştir.
+
+**TAÇ KAPI MUTLAKA RESTORE EDİLMELİ**
+
+Anadolu Selçuklu döneminin Konya’daki en müstesna yapılarından biri olan medreseyi emsalsiz kılan en önemli yönü muhteşem bir taç kapıya sahip olmasıdır. Diğer Selçuklu medreselerinde olduğu gibi İnce Minareli Medrese’nin taç kapısı da doğuya bakmaktadır. Mimar Kölük bin Abdullah’ın Sille taşını adeta bir iğne oyası gibi işleyerek ortaya çıkardığı bu taç kapı estetik açıdan medresenin en görkemli öğesidir. Taç kapı; süslemedeki zenginliği, kompozisyon bütünlüğü, taş işçiliğindeki incelik ve zarafetiyle tüm dikkatleri üzerine toplar. Merhum Ahmet Hamdi Tanpınar, Beş Şehir’de “Biraz da Ortaçağ şehirlerinin darlığı yüzünden Selçuk mimarisinin en zengin noktası binaların cephesidir. Henüz yerli hayatta çok mühim bir yeri olan çadırı örnek alan bu mimari, ihtirasları büyüdükçe bu cephelerde taş işçiliğinin bütün imkânlarını dener” diyerek Selçuklu yapılarının taç kapılarındaki ihtişama dikkat çeker ve İnce Minareli Medrese’nin cephesini tiftikten dokunmuş büyük bir sultan çadırına benzetir ve Tanpınar sözlerine şu ifadelerle devam eder, “Süs olarak sadece iki Kur’an suresini (Yasin ve Fetih) taşıyan ve onların, kapının tam üstünde çok ustalıklı bir düğümle birbirinin arasından geçerek yaptıkları düz pervazla, Allah kelamının büyüklüğü önünde insan talihinin biçareliğini anlatmak ister gibi mütevazı açılan asıl giriş yerini çerçeveleyen bu kapı bütünü, türünün hemen hemen yegânesidir.” Tanpınar’ın Beş Şehir’ini yeri geldikçe şehir tarihine meraklı olan gençlere hararetle tavsiye ederim. Hatta çoğu zaman keşke günümüzde de Tanpınar gibi bir yazar çıksa da Konya’yı her yönüyle bizlere anlatsa derim.
+
+**İNCELİĞİN VE ZERAFETİN ÜRÜNÜ**
+
+Sanat tarihiyle ilgilenen pek çok kişi gibi İnce Minareli Medrese, bir fotoğrafçı olarak bizim de dikkatimizi çekmiştir. İnce Minareli Medrese’nin Konya’daki Selçuklu yapıları içerisinde bizim nazarımızda istisnai bir yeri vardır. Özellikle taç kapısındaki taş işçiliğine, içinde ve minaresinde yer alan eşsiz Selçuklu çinilerine bakmaya doyamayız. Büyük bir inceliğin ve zarafetin ürünü olan taç kapı aynı zamanda Türklerin ilme verdiği önemin de bir göstergesidir. Yolumuz ne zaman medresenin bulunduğu semte düşse her seferinde mutlaka durup taç kapıyı hayranlıkla seyreder, kapının çokça fotoğrafını çekip bu nadide yapının banisini hayırla yâd ederiz. Anadolu Selçuklu sanatının en görkemli eserlerinden biri olan dârülhadis farklı tarihlerde yapılan onarımlarla günümüze kadar sağlam bir şekilde ulaşmıştır. Yapı her ne kadar dışarıdan bakıldığı zaman sağlam gibi görünse de günümüzde de etraflıca bir onarıma ihtiyaç duyduğu aşikârdır.
+
+**VAKIFLAR BÖLGÜ MÜDÜRLÜĞÜ HAREKETE GEÇMELİ**
+
+Geçtiğimiz günlerde bir vesileyle Konya Vakıflar Bölge Müdürü Nurullah Osmanlı’yı ziyaret etmiştik. Konya’daki ecdat yadigârlarının durumunu konuşurken konu İnce Minareli Medrese’ye geldi ve Nurullah Bey medresenin de ciddi bir onarıma ihtiyaç duyduğunu belirterek, özellikle her geçen gün ilerleyen taç kapıdaki nemin önüne geçmek için bir an önce tedbir almak gerektiğini söylemişti. Sözlerinin sonunda da şu anda Kültür ve Turizm Bakanlığı tarafından müze olarak kullanılan binada gerekli işlemlerin yapılması halinde hemen kapsamlı bir restorasyona başlayabileceklerini ifade etmişti. Medresedeki restorasyon ihtiyacının acil olduğu taç kapıdaki Sille taşlarının günden güne eriyip gitmesiyle de kendini belli ediyor. İnşallah Kültür ve Turizm Bakanlığı yetkilileri de bu gerçeğin bir an önce farkına varırlar da medresenin onarımına vakit kaybetmeden başlanır.
+
+Zeminden kapilarite yoluyla yükselen yağmur suları taç kapının ve minarenin kaidesinin alt kısmını bozmuştur. Bu bozulma her geçen gün kademe kademe yukarıya doğru yükselmektedir. Şayet bir an önce tedbir alınmazsa taç kapı ve minarenin kaidesindeki taş kanserinin önüne geçmek mümkün olmayacaktır. Medresede yapı malzemesi olarak kullanılan Sille taşının gözenekli olması, çatıdan gelen suların alınışı, drenaj ve yalıtım sorunlarının tam olarak çözülememesi sebebiyle taç kapı ve minare sürekli olarak zeminden su almaktadır. Onun için medresenin hiç vakit kaybetmeksizin bir an önce restore edilmesinde büyük fayda vardır. İnce Minareli Medrese’deki bu sorunun giderilebilmesi için yapının yağış sularından, su ve nem etkilerinden korunması gerekir. Restorasyon yapılırken sadece taç kapının görünümünden ziyade yapının temellerinde su ve nemin uzaklaştırılmasına yönelik tedbirlerin de alınması gerekir. Tabii ki medresenin taç kapısından başka onarıma muhtaç bölümleri de bulunuyor. Kültür ve Turizm Bakanlığı’nın gerekli hassasiyeti göstererek medresenin restorasyonu için binayı boşaltarak Konya Vakıflar Bölge Müdürlüğüne teslim edeceğini ümit ediyoruz.
+
+
+UYARI:Küfür, hakaret, rencide edici cümleler veya imalar, inançlara saldırı içeren, imla kuralları ile yazılmamış,Türkçe karakter kullanılmayan ve büyük harflerle yazılmış yorumlar onaylanmamaktadır.

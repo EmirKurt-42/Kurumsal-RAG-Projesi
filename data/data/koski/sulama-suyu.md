@@ -1,0 +1,53 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/sayfa/sulama-suyu
+baslik: Sulama Suyu
+cekilme_tarihi: 2026-07-14
+hash: f108ca2488a397f460f373d5620585e2
+---
+
+İslam öncesi devirlerde, birçok yerde ve İslam Dünyası'nda çok sık olarak kullanılmış olan, üstü açık veya kapalı kanallar vasıtasıyla suyun ulaştırılması şeklinde izah edebileceğimiz Kanal (kanat) sistemi, Konya'daki Selçuklu su iletim sistemiyle yakından ilgilidir. İran, Afganistan, Orta Asya ve Anadolu'nun büyük bir kısmı gibi suyun kritik ve çok önemli olduğu ülkelerde geçmişi çok eskilere dayanan Kanal (Kanat) sistemi, binlerce yıllık birikiminden yararlanılmıştır. "Binlerce yıllık birikim diyoruz." Çünkü Anadolu'da kanal (kanat) sistemi eski bir İran buluşu olarak bilinmekteyse de, başta İran olmak üzere bölgedeki kurak ülkelerde yaygın olarak uygulanmış, ilk olarak da Urartular tarafından kullanılmıştır. Kanat sisteminin Urartulardan önce uygulanabilirliği ise M.Ö. 2500 yıllarında, yani Sümer çağında, aşağı Mezopotamya'da kanıtlanmıştır. Hiç şüphesiz ki, bütün Müslüman kasaba ve şehirleri geleneksel Kanat (üstü kapalı kanal) sistemine dayanmaktadır. Birçok yerdeki kanat sistemi, kanatların üstü açık versiyonunu ve elle açılan küçük ırmaklardan oluşan girift bir şekilde de oluşabilmektedir. Bu tür durumlarda sulama meselesi; esas itibariyle kentin civarındaki tarım alanlarını sulama maksadıyla suyun uygun tarzda dağılımını sağlama ve bizzat kentin su ihtiyacını karşılama şeklinde bürünmüştür. Bu tür sulama sistemine canlı bir örnek olarak, kendine özgü bir coğrafi konuma sahip bulunan Konya şehrini verebiliriz. Şehrin yakınında bulunan Meram Çayı'nın suyu; üstü açık kanallar - kanatlar - sistemi ile hem yakınındaki arazilerin sulama suyu olmuş, hem de şehrin içme suyunu sağlamıştır.
+
+Konya'da, İslam öncesinde Meram Çayı'nın - muhtemelen Şehir Irmağı vasıtasıyla - şehir merkezi durumundaki Alaaddin Tepesi ve civarına ulaştırıldığı dolayısıyla kanat sistemi benzeri bir uygulamanın kullanıldığı konusunda bazı tarihi izler varsa da, şehrin su sisteminin bir bütün halinde ele alınıp tüm şehre mal edilmesi Selçuklular zamanında olmuştur. Orta Asya'da, İran ve Afganistan'da olduğu gibi Anadolu'da da Selçuklular zamanında zengin mülk sahipleri kendi hesaplarına kanallar kazdırmışlardır. Aynı durum Konya'da da görülmektedir. Selçuklulardan sonra gelen Karaman oğlu'lar da birçok değişiklik yapmışlar ve sulama kanalları açmışlardır. Ayrıca İlhanlılar zamanında, vezir Rüsiddin tarafından Anadolu'da birçok sulama kanalı açılmıştır.
+
+Selçuklular döneminde, Meram Deresi'ne bağlı su kanalları sistemine (Kanat sistemi) Vezir Sahip Ata Fahreddin Ali katkıda bulunmuş ve kendi adıyla anılan Sahip Irmağını açtırmış, bütün kanat sistemi üzerinde yeni bir düzenleme yaparak su dağılımını bir esasa bağlamıştır. Meram Deresi kışın bol olan suyuna karşın yaz aylarında su azalmakta ve çok kıymetlenmektedir. Buna göre yaz aylarındaki su 12 okka kabul edilmiş ve kanat sistemini oluşturan ırmaklara su şu şekilde bölünmüştür:
+
+Şehir Irmağı: 4 okka
+
+Yaka Gedekelas Irmağı: 2 okka
+
+Sahip Irmağı: 2 okka
+
+Karahüyük Irmağı: 1 okka
+
+Lala Bahçe Irmağı: 1 okka
+
+Şehir Bağları: 2 okka
+
+Bu su dağılımına "Sahip Su Cetvelleri" adı verilmektedir. Şehir ve çevresine su dağılımı, Sahip cetvellerine göre yapılmakta, buna uyulmadığı zaman konu Şeriat Mahkemesi'ne gitmekte ve orada çözülmektedir. Bu konu ile ilgili olarak Hicri 1170, Miladi 1754 tarihli iki Şeriat Mahkeme hükmü, Hicri 1231, Miladi 1815 tarihli Sultan II. Mahmud'a ait olan müceddet fermanına göre ırmak kimin tarafından açılmış ve vakfedilmişse, vakfın belirttiği şartlara uyulmuştur. Konya kanal sisteminde su dağılımı esası, Sahip Ata su cetvelleri hesabına dayanarak geçmişten Cumhuriyet dönemine kadar yapılagelmiştir.
+
+Konya'da suyla ilgili vakfiyelerde sıkça gördüğümüz ve Sahip su cetvellerini - su kanalları sistemini, idare eden yetkililer için kullanılan "Mirab" kelimesi, bir yerde "su emini" anlamında kullanılmıştır. Mehmet Zeki Pekalin'in "Osmanlı Tarih Deyimleri ve Terimleri Sözlüğü" kitabının 2. cildinde "Mirab" kelimesi "Mir-i Ab" şeklinde geçmekte olup açıklamasında şunlar yazmaktadır: "Sulama ve su dağıtım işine nezaret edenler hakkında kullanılır bir tabirdir. Mir-i ablık Mukataa, yani devlete ait bir vardiyanın bir bedel mukabilinde kiralanması suretiyle alınır."
+
+Selçuklu ve Osmanlı döneminde kanal sistemindeki su dağılımını o zamanki Mirab adı verilen devlet görevlileri yapmaktaydı. Mirablar, Meram'ın yukarı tarafında Köyceğiz'de otururlardı. Oradan suyun azalıp çoğaldığını görürlerdi ve emrindeki su işçilerine ona göre talimatlar verirdi. Onlar da bağ ve bahçelere suyu tevzi ederlerdi. Emirlerinde ise "Havaleci" denen işçi başları çalışmaktaydı. Bu isim, Konya'da Cumhuriyet dönemi ilk zamanlarında çok az bir değişikle "Havala" olarak kullanılmıştır. Havalecilerin emirlerinde çalışan kimselere "Sıyırıcı" denirdi. Havaleci ve sıyırıcılar maaşlarını Mirab'lardan alırlardı. Bu işçiler, ellerinde kürekleriyle arkalarda dolaşır, lazım olan yerlere su verir, diğer yerde suyu keser, arklar açar ve bu gibi işlere bakarlardı. Havaleci ve sıyırıcılar komşu köylerden oluşurdu.
+
+16. yüzyıla doğru, yani Osmanlı devrinde, Mirablar eski önemlerini kaybetmişlerdir. Çünkü eskiden su ve kanal sistemi cemaatin elindeydi. Daha doğrusu cemaatin örfi kanunlarla ve vakıf şartlarına göre kolayca denetlenebildiği Mirablar'ın elindeydi. Ancak 16. yüzyıla girerken bu müessese de bozulmaya yüz tutmuştur. Mirablar zorbalığa başlamışlar, örfi kanunları tanımamışlar ve vakıf şartlarının isteği dışında hareket etmişlerdir. Bu yüzden 16. yüzyıl kanunnameleri, vazifelerini suiistimal eden Mirabların cezaya çarptırılmalarını kadılara havale etmektedir. Kanuni Sultan Süleyman devrinde müessese, eski örfi kanunlara ve vakfiye şartlarına göre tekrar düzenlenmiş ve bu vazife halkın itimadını kazanmış şahıslar arasından seçim suretiyle tayin edilmeye başlanmıştır. Bu kanunlardan sonra, şehir halkının da rızasıyla Mirablar, su işlerinde itimat edilen kişilerden olması dikkat edilmiştir. Bu yüzden Konyalılar Mirablarını daima ulema sınıfından seçmişlerdir. Konu üzerinde gösterilen her türlü ihtimama rağmen, su üzerinde anlaşmazlık zuhur ettiği vakit, kadının yahut naibin iştirakiyle teşekkül eden komisyon su yerine giderek orada bakılmıştır. Davanın sonuçlanmasında vakfın şartları, o güne kadar gelmiş örfi kanunlar göz önüne alınmış ve ona göre karar verilmiştir.
+
+Konya'nın suyu ancak bağlarındadır. Bağlara verilen bu suya "hak sürübü" denirdi. Hak sürübüne son derece titizlikle riayet edilirdi. Aynı zamanda hamam ve çeşmelere gelen suya zarar gelmemesi ve suyun başka yerlerde kullanılmaması ısrarla takip edilen bir konuydu. Hatta Fatih Sultan Cem'in, Alavardı yöresindeki bağlarını sulamak için su getirttiği köşke, onun ölümünden sonra nezaret eden kimse kendine tahsis edilen sudan fazlasını kullanmaya başlayınca, Kanuni Sultan Süleyman buna mani olmak için Kanunnamesinde bunun önlenmesini istemişti.
+
+Şehre giden su, ahalinin malı sayılırdı. Her mahalle bir senelik olmak üzere bir vekil seçerdi ki "su komisyonu" bunlardan oluşurdu. Seçilen kimseler esnaf, hocalar ve tüccarlar idi. Hükümet su işine karışmazdı. Mahallelerde "cemaat sandığı" teşkilatı vardı. Bu sandığın gelirini vasiyetnamelerden, düğünlerden, hayır işlerinden gelen paralar teşkil ederdi. Bu sandıkta biriken paralar genellikle su işlerine harcanırdı. Meram Deresi'nden su alan, İslam öncesi devirlerden başlayarak günümüze kadar zamanla elle açılmış, genelde bağ ve bahçelerin sulanması için yapılmış ve bilhassa 18. ve 19. yüzyıllarda, kentin büyümesiyle baş gösteren su sıkıntısına da direkt su alınıp çare olmuş küçük ırmaklardan bazıları günümüze gelebilmiştir. Şehre gelen ırmaklar, 1967 senesinde Altın Apa Barajı'nın su tutması nedeniyle Devlet Demiryolları'nın doğusuna geçemez olmuş ve kapanmıştır.
+
+**Şehir Irmağı**: Şehir Irmağı Meram Deresi'nin solundadır. Meram'da Maarif Değirmeni olarak adlandırılan yerden su alan ve Meram merkezine, Askan yöresine, Sigorta Hastanesi çevresine, oradan Alaaddin Tepesi'nin güneyinden geçerek şehir içindeki Karma Ortaokul'a kadar bağlara su veren ırmaktır. Bu ırmak, isminden de anlaşılacağı gibi kentin içme suyunu da temin ediyordu.
+
+**Yaka Irmağı**: Yaka Irmağı Meram Deresi'nin solundadır. Dere Hidroelektrik Santrali ve Un Değirmeni arasından Meram Deresi'ne göre sol sahilde, Meram Deresi'nden ilk su alan (3) ırmaktır. Eski kayıtlarda Gedekelas olarak geçen, Bizans ve Selçuklu dönemlerinde adeta bir sayfiye yeri gibi önem gören Yaka yöresini ve Tıp Fakültesi civarını ve Hocacihan bağlarını sulayan bu ırmak kısmen halen faaliyettedir.
+
+**Sahip Irmağı**: Meram Deresi'nin solundadır. Selçuklu vezirlerinden Sahip Ata Fahreddin Ali tarafından açılmıştır ve Meram merkezinin memba tarafında, sağ kesimden su almakta, Tavus Baba Türbesi'nin önünden geçerek Meram bağlarının yukarı kısımlarını sulamakta ve Ana Sultan Mezarlığı'nda sona ermektedir. Bugün de hizmet vermektedir.
+
+**Karahüyük Irmağı**: Meram Deresi'nin sağındadır. Meram merkezinde, Meram Deresi'nin sağ tarafından Lalebahçe Irmağı ile eşit su almaktadır. Bu ırmak Meram içinde yer yer bahçelerin içinden geçmekte, Yorgancı semtinde Harafin Başı denilen yerde ikiye ayrılmaktadır. Batıya giden ırmak, Konya-Hatip yolundan önce diğer ırmakla birleşmektedir. Diğer ırmak ise Pir Hasan semtini suladıktan sonra Karahüyük köyü arazisine su vermekte ve ova içinde kaybolmaktadır.
+
+**Lale Bahçe Irmağı**: Meram Deresi'nin sağındadır. Meram merkezinde Karahüyük Irmağı ile Meram Deresi'nden eşit su almaktadır. Meram'da bahçelerin içinden geçerek Lalebahçe semtini, Konya-Hatip yolunu aşarak daha ilerideki Harmancık köyünün arazisini sulamakta ve ova içerisinde kaybolmaktadır.
+
+**Bürümcek Irmağı**: Meram Deresi'nin solundadır. Meram merkezinin menap tarafında, sol kesimden su almakta ve Bürümcek yöresini sulamaktadır. Meram Deresi üzerindeki Müftü Gediginden ileride, kent merkezindeki bağ ve bahçelere su veren iki ırmak daha vardır. Bunlar Kovanazı ve Gümüş ırmaklarıdır.
+
+**Kovanazı Irmağı**: Müftü Gedigi'nden sonra Konya bahçelerini sulayan bu ırmak daha sonra Kovanazı bahçelerini sulayıp, Devlet Demir Yolları'nı geçerek Konya-Karaman yoluna ulaşıyordu.
+
+**Gümüş Irmağı**: Konya-Hatip yolu üzerinde, yanında sarniç de bulunan köprü yanından ikiye ayrılmakta, Gümüş Irmağı olarak bilinen kol, Aydın Doğdu ve Çaybaşı üzerinden Mengeneye ulaşmaktadır. Diğer kol Kömürcü Camii önünden geçerek Konya bahçelerini suladıktan sonra Konya-Karaman yolunu Sakalak Köprüsü yanından kesip, bir başka yoldan Mengeneye ulaşmaktadır.

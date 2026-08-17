@@ -1,0 +1,10 @@
+[
+  {
+    "soru": "KOMEK ilkyardım ve afet müdahale eğitimlerini hangisi veriyor?",
+    "beklenen_kaynak_adi": "komek/haber_238.md"
+  },
+  {
+    "soru": "KOSKİ su faturası taksitlendirmesi nasıl yapılır?",
+    "beklenen_kaynak_adi": "koski/sayfa_12.md"
+  }
+]

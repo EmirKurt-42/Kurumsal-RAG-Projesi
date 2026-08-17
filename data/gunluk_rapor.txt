@@ -1,0 +1,179 @@
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-22 09:52:23) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 79 Yeni, 5 Değişti, 481 Aynı, 1 Hata
+- MERHABA_HABER: 201 Yeni, 1 Değişti, 1 Aynı, 0 Hata
+- YENI_MERAM: 65 Yeni, 0 Değişti, 0 Aynı, 0 Hata
+- KONYA_HABER: 20 Yeni, 0 Değişti, 0 Aynı, 0 Hata
+- KONYA_YENIGUN: 81 Yeni, 0 Değişti, 0 Aynı, 0 Hata
+-------------------------------------------------------
+TOPLAM: 447 Yeni, 14 Değişti, 572 Aynı, 1 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-23 12:06:22) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 1 Yeni, 1 Değişti, 370 Aynı, 194 Hata
+- MERHABA_HABER: BAŞARISIZ (Kritik Hata)
+- YENI_MERAM: BAŞARISIZ (Kritik Hata)
+- KONYA_HABER: BAŞARISIZ (Kritik Hata)
+- KONYA_YENIGUN: BAŞARISIZ (Kritik Hata)
+-------------------------------------------------------
+TOPLAM: 2 Yeni, 9 Değişti, 460 Aynı, 194 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-23 13:49:34) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 0 Yeni, 1 Değişti, 565 Aynı, 0 Hata
+- MERHABA_HABER: 27 Yeni, 3 Değişti, 171 Aynı, 0 Hata
+- YENI_MERAM: 50 Yeni, 3 Değişti, 16 Aynı, 0 Hata
+- KONYA_HABER: 6 Yeni, 1 Değişti, 4 Aynı, 0 Hata
+- KONYA_YENIGUN: 34 Yeni, 1 Değişti, 47 Aynı, 0 Hata
+-------------------------------------------------------
+TOPLAM: 118 Yeni, 17 Değişti, 893 Aynı, 0 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-28 10:40:26) ===
+- KOMEK: 1 Yeni, 1 Değişti, 64 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 2 Yeni, 2 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 64 Yeni, 3 Değişti, 138 Aynı, 0 Hata
+- YENI_MERAM: 52 Yeni, 3 Değişti, 8 Aynı, 0 Hata
+- KONYA_HABER: 12 Yeni, 0 Değişti, 3 Aynı, 0 Hata
+- KONYA_YENIGUN: 73 Yeni, 1 Değişti, 8 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 28 Yeni, 0 Değişti, 0 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 232 Yeni, 18 Değişti, 808 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-28 15:55:24) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 4 Yeni, 0 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 15 Yeni, 3 Değişti, 184 Aynı, 0 Hata
+- YENI_MERAM: 18 Yeni, 3 Değişti, 42 Aynı, 0 Hata
+- KONYA_HABER: 3 Yeni, 0 Değişti, 13 Aynı, 0 Hata
+- KONYA_YENIGUN: 6 Yeni, 2 Değişti, 74 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 0 Değişti, 28 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 47 Yeni, 16 Değişti, 993 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-29 10:02:07) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 0 Yeni, 2 Değişti, 564 Aynı, 0 Hata
+- MERHABA_HABER: 6 Yeni, 3 Değişti, 192 Aynı, 1 Hata
+- YENI_MERAM: 23 Yeni, 4 Değişti, 38 Aynı, 0 Hata
+- KONYA_HABER: 3 Yeni, 0 Değişti, 13 Aynı, 0 Hata
+- KONYA_YENIGUN: 6 Yeni, 1 Değişti, 75 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 0 Değişti, 28 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 39 Yeni, 18 Değişti, 1000 Aynı, 4 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-30 08:54:40) ===
+- KOMEK: 1 Yeni, 1 Değişti, 64 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 3 Yeni, 4 Değişti, 559 Aynı, 0 Hata
+- MERHABA_HABER: 19 Yeni, 35 Değişti, 146 Aynı, 1 Hata
+- YENI_MERAM: 44 Yeni, 4 Değişti, 21 Aynı, 0 Hata
+- KONYA_HABER: 7 Yeni, 2 Değişti, 8 Aynı, 0 Hata
+- KONYA_YENIGUN: 20 Yeni, 1 Değişti, 62 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 1 Değişti, 27 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 94 Yeni, 56 Değişti, 912 Aynı, 4 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-07-30 10:42:30) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 25 Aynı, 0 Hata
+- KOSKI: 0 Yeni, 1 Değişti, 565 Aynı, 0 Hata
+- MERHABA_HABER: 10 Yeni, 3 Değişti, 190 Aynı, 0 Hata
+- YENI_MERAM: 8 Yeni, 5 Değişti, 55 Aynı, 0 Hata
+- KONYA_HABER: 4 Yeni, 3 Değişti, 11 Aynı, 0 Hata
+- KONYA_YENIGUN: 3 Yeni, 1 Değişti, 78 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 0 Değişti, 28 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 26 Yeni, 21 Değişti, 1017 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-03 10:36:26) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: 3 Yeni, 1 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 52 Yeni, 4 Değişti, 148 Aynı, 0 Hata
+- YENI_MERAM: 56 Yeni, 2 Değişti, 8 Aynı, 0 Hata
+- KONYA_HABER: 8 Yeni, 0 Değişti, 3 Aynı, 0 Hata
+- KONYA_YENIGUN: 78 Yeni, 1 Değişti, 2 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 1 Değişti, 27 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 198 Yeni, 17 Değişti, 839 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-04 09:06:28) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: 2 Yeni, 0 Değişti, 563 Aynı, 1 Hata
+- MERHABA_HABER: 17 Yeni, 4 Değişti, 182 Aynı, 0 Hata
+- YENI_MERAM: 30 Yeni, 4 Değişti, 33 Aynı, 0 Hata
+- KONYA_HABER: 5 Yeni, 2 Değişti, 7 Aynı, 0 Hata
+- KONYA_YENIGUN: 16 Yeni, 1 Değişti, 63 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 1 Değişti, 27 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 71 Yeni, 20 Değişti, 964 Aynı, 4 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-05 09:03:16) ===
+- KOMEK: 1 Yeni, 0 Değişti, 65 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: BAŞARISIZ (Kritik Hata)
+- MERHABA_HABER: 18 Yeni, 42 Değişti, 142 Aynı, 0 Hata
+- YENI_MERAM: 0 Yeni, 7 Değişti, 60 Aynı, 0 Hata
+- KONYA_HABER: 5 Yeni, 0 Değişti, 8 Aynı, 0 Hata
+- KONYA_YENIGUN: 26 Yeni, 1 Değişti, 52 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 0 Değişti, 28 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 50 Yeni, 58 Değişti, 379 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-06 08:19:02) ===
+- KOMEK: 1 Yeni, 0 Değişti, 66 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: 2 Yeni, 2 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 17 Yeni, 3 Değişti, 181 Aynı, 0 Hata
+- YENI_MERAM: 53 Yeni, 2 Değişti, 8 Aynı, 0 Hata
+- KONYA_HABER: 6 Yeni, 1 Değişti, 7 Aynı, 0 Hata
+- KONYA_YENIGUN: 22 Yeni, 1 Değişti, 57 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 0 Değişti, 28 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 101 Yeni, 17 Değişti, 933 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-07 08:50:27) ===
+- KOMEK: 1 Yeni, 0 Değişti, 66 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: 2 Yeni, 2 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 19 Yeni, 3 Değişti, 180 Aynı, 0 Hata
+- YENI_MERAM: 42 Yeni, 1 Değişti, 25 Aynı, 0 Hata
+- KONYA_HABER: 2 Yeni, 1 Değişti, 9 Aynı, 0 Hata
+- KONYA_YENIGUN: 29 Yeni, 1 Değişti, 50 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 1 Değişti, 27 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 95 Yeni, 17 Değişti, 943 Aynı, 3 Hata
+=======================================================
+
+=== GÜNLÜK VERİ ÇEKİM RAPORU (2026-08-10 09:01:03) ===
+- KOMEK: 1 Yeni, 0 Değişti, 66 Aynı, 0 Hata
+- KONYA_BEL_TR: 0 Yeni, 8 Değişti, 24 Aynı, 0 Hata
+- KOSKI: 3 Yeni, 1 Değişti, 562 Aynı, 0 Hata
+- MERHABA_HABER: 39 Yeni, 3 Değişti, 161 Aynı, 0 Hata
+- YENI_MERAM: 56 Yeni, 2 Değişti, 11 Aynı, 0 Hata
+- KONYA_HABER: 11 Yeni, 0 Değişti, 4 Aynı, 0 Hata
+- KONYA_YENIGUN: 49 Yeni, 1 Değişti, 32 Aynı, 0 Hata
+- KONYAKART_MEVLANA: 0 Yeni, 1 Değişti, 27 Aynı, 3 Hata
+-------------------------------------------------------
+TOPLAM: 159 Yeni, 16 Değişti, 887 Aynı, 3 Hata
+=======================================================
+

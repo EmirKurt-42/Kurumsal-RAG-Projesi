@@ -1,0 +1,41 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/haber/konya-su-ve-ulasimda-en-ucuz-sehir-2022-03-14-33
+baslik: 14.03.2022KONYA SU VE ULAŞIMDA EN UCUZ ŞEHİRKonya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, düzenlediği basın toplantısında gündemi değerlendirerek devam eden yatırımlarla…
+cekilme_tarihi: 2026-07-14
+hash: 92f9e68c866429df0219132415d4c7c7
+---
+
+**Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, düzenlediği basın toplantısında gündemi değerlendirerek devam eden yatırımlarla ilgili bilgi verdi. Konya’da öğrencilerin ulaşım ücretlerine 4 yıldır, sivil ulaşım ücretlerine ise 2 yıldır zam yapmadıklarını hatırlatan Başkan Altay, “Bu ay 200 milyon liralık otobüs alıyoruz. Bunu yaz sonuna kadar almaya devam edeceğiz. Türkiye'nin en güzel otobüslerini, şehrimizin caddelerinde göreceksiniz. Hem gelir olarak daha az gelirdeyiz ama taşıma olarak da çok daha ucuza taşıyoruz. Bu otobüsleri de öz kaynakla alıyoruz.” dedi. Su konusunda da benzer şehirler arasında en ucuz şehir olduklarını kaydeden Başkan Altay, ‘Fenni Fırın’ ismiyle ucuz ve kaliteli ekmek üretmek için de çalışmaları başlattıklarını duyurdu. Başkan Altay, “Konya olarak üç temel meselede; ekmekte, suda ve ulaşımda en ucuz şehir olarak sürece devam etmiş olacağız. Zor dönemde vatandaşlarımızın yanında olmaya devam edeceğiz.” diye konuştu.**
+
+Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, düzenlediği basın toplantısıyla gündemdeki konuları ve yatırımları değerlendirdi.
+
+Selçuklu Kongre Merkezi’nde gerçekleştirilen basın toplantısında devam eden yatırımlar hakkında bilgi veren Başkan Altay, şehir trafiğini rahatlatmak için önemli çalışmalar yaptıklarını söyledi. Başkan Altay, “Özellikle trafikte bekleme sürelerinin düşürülmesi ile ilgili Konya Büyükşehir Belediyesi olarak tüm kavşakları ayrı ayrı inceleyerek önemli dokunuşlar yapıyoruz. Belh Kavşağı’nda önemli bir düzenleme gerçekleştirdik. Burası, Konya'nın önemli buluşma noktalarından birisi. Günde yaklaşık 65 bin araç bu kavşaktan geçiyor. Göbeğin kaldırılması, trafikte önemli bir rahatlama oluşturacak. İnşallah peyzaj çalışmaları da bittiğinde Belh Kavşağı yeni yüzüne kavuşmuş olacak. Burada araçlarda bekleme süresinin 80 saniye azalmasını planlıyoruz. Böylece trafikte önemli bir rahatlama olacak, emeği geçen arkadaşlarıma teşekkür ediyorum.” ifadelerini kullandı.
+
+**KONYA ULAŞIMDA VE SUDA BENZER ŞEHİRLER ARASINDA EN UCUZ ŞEHİR**
+
+Konya’nın ulaşımda ve suda benzer şehirler arasında en ucuz şehir olduğunu vurgulayan Başkan Altay, bu konuyla ilgili de önemli açıklamalarda bulundu. Altay, “Öğrenci ulaşım fiyatlarına 4 yıldır, sivil fiyatlara da 2 yıldır zam yapmadık. Öğrenci biletimiz 4 yıldır 1,55 lira. Sivil biletimiz ise 2 yıldır 2,50 lira. Vatandaşımızın bu dönemde yanında olmak için zam yapmama konusundaki irademizi inşallah yılsonuna kadar sürdürmeyi planlıyoruz. Ayda ortalama 25 biniş yapan vatandaşımızın Ankara'ya göre aylık 200 lira bir avantajı oluyor. Konya'da eğer evde iki tane de öğrenci varsa 100’er lira da onlardan; yani her haneye yaklaşık 400 liralık ulaşım katkısında bulunmuş oluyoruz. Bu adeta bir burs vermek, bir sosyal yardım yapmak gibi bir durum. Bunu bu sorumluluk bilinci ile yürütüyoruz.” dedi.
+
+**OTOBÜSLERİ ÖZKAYNAKLARIMIZLA ALIYORUZ**
+
+Başkan Altay, “2020 yılı rakamlarına göre merkezi hükümetten Konya'ya kişi başına 554 lira gelirken İzmir'e 930, İstanbul'a 829, Ankara'ya 765, Mersin'e de 622 lira geliyor. Yani biz aynı zamanda gelirler yönünden de bir araya gelip deklarasyon yayınlayan arkadaşlara göre ciddi manada az ücret alıyoruz. Ama ona rağmen bu dönemde özellikle ulaşımda zam yapmama konusunda kararlıyız. İnşallah Rabbim bizi bu konuda mahcup etmez. Konyalıların yanında olmaya devam edeceğiz. Sadece bu ay 200 milyon liralık otobüs alıyoruz. Bunu yaz sonuna kadar almaya devam edeceğiz. Türkiye'nin en güzel otobüslerini, şehrimizin caddelerinde göreceksiniz. Bu otobüslerimiz sıfır karbon konusunda önemli bir katkı sağlamış olacak. Hem gelir olarak daha az gelirdeyiz ama taşıma olarak da çok daha ucuza taşıyoruz. Bu otobüsleri de özkaynakla alıyoruz. Herhangi bir finansman kullanmıyoruz. Şehrimize hayırlı olmasını diliyorum.” açıklamasını yaptı.
+
+Cumhurbaşkanı Erdoğan’ın su fiyatlarında da KDV oranını yüzde 8’den yüzde 1'e indirmesine ilave olarak Büyükşehir olarak yüzde 7’lik bir indirim daha gerçekleştirdiklerini ve toplamda yüzde 14’lük indirim oluştuğunu paylaşan Başkan Altay, şu an itibariyle büyükşehirler sıralamasında en alt sıralarda olduklarını, su fiyatlarının da Konya’da diğer şehirlere göre daha ucuz olduğunu söyledi.
+
+**KONYALILARIN KALİTELİ VE UCUZ EKMEK ALABİLMESİ İÇİN BİR ÇALIŞMA YAPIYORUZ**
+
+Konya Büyükşehir Belediyesi olarak ekmekle ilgili de bir süreç yürüttüklerini dile getiren Başkan Altay, “İnşallah Konyalıların hem kaliteli hem de daha ucuz ekmek alabilmesi için bir çalışma yapıyoruz. Bu yıl sonuna varmadan ‘Fenni Fırın’ ismiyle en kısa sürede vatandaşımızla buluşturmayı arzu ediyoruz. Yani üç temel meselede; ekmekte, suda ve ulaşımda en ucuz şehir olarak sürece devam etmiş olacağız. Zor dönemde vatandaşlarımızın yanında olmaya devam edeceğiz. Pandemi döneminde de aynı şeyi ifade etmiştik. Zorda olan kim varsa Konya Büyükşehir olarak her zaman yanındayız. Vatandaşlarımızın bize olan güvenine teşekkür ediyoruz. Biz de bu güvene layık olabilmek için ilçe belediyelerimizle birlikte çalışıyoruz. Sadece ucuza hizmet üretmiyoruz. Bir taraftan da Türkiye'ye örnek hizmetler üretiyoruz.” ifadelerine yer verdi.
+
+**UCLG OLARAK EN ÖNEMLİ HEDEFİMİZ BARIŞIN VE DEMOKRASİNİN YERLEŞMESİ**
+
+Dünya Belediyeler Birliği Teşkilatı’nda eşbaşkanlık görevini yürüttüğünü, geçtiğimiz haftalarda Barselona'da önemli bir toplantı gerçekleştirdiklerini hatırlatan Başkan Altay, “Benim başkanlığını yürüttüğüm toplantıda Ukrayna ve Rusya krizi ile ilgili önemli bir bildiri yayımladık. Çünkü bizim hem Ukrayna'dan hem Rusya'dan üyelerimiz var. Ayrıca Dünya Belediyeler Birliği olarak tüm dünyada barışın ve demokrasinin yerleşmesi, krizin bir an önce sona ermesini arzu ediyoruz. Ayrıca Haziran ayında Dünya Belediyeler Birliği Başkanlığı görevini devralmış olacağız ve Birleşmiş Milletler’de yapılacak toplantıda da dünya belediyelerini Konya Büyükşehir Belediyesi olarak sizler adına temsil etmiş olacağız. Burada da barışın ve kardeşliğin bir an önce tesis edilmesi ile ilgili çalışmalarımızı yapmaya devam edeceğiz.” sözlerini kullandı.
+
+**KONYA İSLAMİ DAYANIŞMA OYUNLARINA HAZIRLANIYOR**
+
+Konya’nın, önümüzdeki Ağustos ayında önemli bir organizasyona hazırlandığına vurgu yapan Başkan Altay şunları kaydetti: “İslami Dayanışma Oyunları’na neredeyse 5 ay kaldı. 56 ülkeden 3 binden fazla sporcuyu 9-18 Ağustos tarihleri arasında şehrimizde misafir edeceğiz. İslam dünyası için çok önemli bir organizasyon. Bunu en iyi şekilde tamamlamak için Gençlik ve Spor Bakanlığımız ile birlikte gayret içerisindeyiz. Şehrimize yeni tesisler yapılıyor. Tam olimpik veledrom, olimpik yüzme havuzu ve atletizm pistimiz tamamlanmak üzere. Diğer tesislerimizde de bakım-onarım çalışmaları bakanlığımız ve Büyükşehir Belediyemiz tarafından yürütülüyor. Bu vesileyle Konya çok önemli tesisler kazanmış olacak. İnşallah 19 Mart'ta Gençlik ve Spor Bakanımızın katılımıyla birlikte Konyamız 2022 yılı İslam Spor Şehirleri Başkenti olacak. Böyle bir unvanı da bu yıl taşımış olacağız.”
+
+**KONYA’MIZ 2023 DÜNYA SPOR BAŞKENTİ OLUYOR**
+
+Konya’nın 2023 Dünya Spor Başkenti olacağının da müjdesini veren Başkan Altay, “19 Mart’ta İtalya’ya gideceğiz. Bunu ilk kez sizlerle paylaşıyorum. İnşallah 2023 yılında da bu spor organizasyonlarının merkezi olmaya devam edeceğiz. Türkiye'de Dünya Spor Başkenti unvanını kazanan ilk şehir; Avrupa'da da Madrid'den sonra ikinci şehir oluyoruz. Spor altyapımızın ne kadar güçlü olduğunu, Konya'nın sporla ne kadar iç içe olduğunu, bu vesileyle hatırlatıyorum. Konya'nın sadece Türkiye'nin değil; dünyanın en güzel şehirlerinden birisi olması konusunda çalışmaya devam edeceğiz.” diyerek konuşmasını tamamladı.
+
+Başkan Altay, toplantının sonunda basın mensuplarının sorularını cevapladı.

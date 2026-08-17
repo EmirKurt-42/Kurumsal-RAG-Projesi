@@ -1,0 +1,21 @@
+---
+kaynak: koski
+kaynak_url: https://www.koski.gov.tr/sayfa/icme-suyu-tarihcesi
+baslik: İçme Suyu Tarihcesi
+cekilme_tarihi: 2026-07-14
+hash: e34a3a4b39a0335e461193ffabf100ef
+---
+
+Birçok büyük şehir, suyu bol ve havası güzel yerlerde kurulmuştur. Avrupa’yı Asya’ya bağlayan ve "Kral Yolu" diye tanınan ana yolun Konya’dan geçmesi, Hitit ve Frig çağlarında zengin bir medeniyete sahne olması, nihayet klasik devirlerde önemli bir mevki işgal etmesi, Konya’nın durumunu yükseltmiş; kamu hizmetleri konusunda zengin eserler meydana getirilmiştir.
+
+Konya’da, İslam öncesinde Meram Çayı’nın -muhtemelen Şehir Irmağı vasıtasıyla- şehir merkezi durumundaki Alaaddin Tepesi ve civarına ulaştırıldığı, dolayısıyla kanal sistemi benzeri bir uygulamanın kullanıldığı konusunda bazı tarihi izler varsa da, şehrin su sisteminin bir bütün halinde ele alınıp tüm şehre yayılması Selçuklular zamanında olmuştur. Orta Asya’da, İran ve Afganistan’da olduğu gibi, Anadolu’da da Selçuklular zamanında zengin mülk sahipleri kendi hesaplarına kanallar kazdırmışlardır. Aynı durum Konya’da da görülmektedir. Selçuklulardan sonra gelen Karamanoğulları da birçok değişiklik yapmış ve sulama kanalları açmıştır. Ayrıca İlhanlılar zamanında, Vezir Reşideddin tarafından Anadolu’da birçok sulama kanalı açılmıştır.
+
+Temellerde ve Alaaddin Tepesi’nde yapılan arkeolojik kazılarda şehrin İslam öncesi devirlerine ait su yollarına rastlanmışsa da, bunlar bugün için bize içme suyu konusunda tam bir fikir vermekten uzaktır.
+
+Konya, uçsuz bucaksız görünen, yazın serapların oynadığı kuru ve çorak bir ovanın batısında kurulmuş olmasına rağmen bir su şehridir. Eski insanlar, şehri; kaynak ve akar suları bol bir dağ zincirinin eteklerine kurmuşlar. Şehir küçük, bağlar ve bostanlar az iken Meram Deresi’nden gelen Aslım’da çok büyük bir göl yapardı. Suları bol bu dağlar bazen Konya için tehlikeli olmuş; şiddetli yağmurlardan veya karların erimesinden sonra yamaçlara inen sular, şehri sık sık tehdit etmiş ve halk arasında "Konya’nın ölümü sudandır" sözü atasözü olarak yaşatılmıştır. Selçuklular devrinde I. Alaaddin Keykubat, Konya’yı içine alan dış kale yaptırmış, etrafında derin hendekler açtırarak şehri hem düşmandan hem de sellerden korumuştur. Evliya Çelebi, Konya Kalesi’ni anlatırken: "Bu iç kale mürtefi yerde vaki olup mükellef ve mükemmel cephaneliği ve topları vardır. Bu kalenin şark, ne, şimal cenahları sara ile bir gölceğizdir. Konya’dan geçen bütün pınarlar bu göle münhasıp olur," demektedir.
+
+Konya şehrinde yapılan arkeolojik kazılardan dolayı, Konya içme suyu tarihine Selçuklular devrinden başlamak icap etmektedir. Bugün bir kısmı ayakta duran Selçuklu devri mimari eserlerinde havuz, çeşme ve su yolları, bu devirde gelişen ve kalabalıklaşan şehrin içme suyu meselesinin sistemli ve planlı bir şekilde ele alındığının canlı misalleridir. Bu devirde Konya içme suyu kaynaklarının, şehrin batısındaki dağların yamacında bulunan Dere, Başarakavak, Tepeköy ve Sille suları olduğu anlaşılmaktadır. Bu sular, birtakım kaynaklarla da beslenerek Meram bağlarına inmekte, buralarda içme ve sulama suyu olarak sarf edildiği gibi bir kısmı da Konya’ya getirilmektedir. Bu kaynaklardan alınan Mukbil ve Beypınarı suları, Selçuklular devrinde sistemli bir şekilde I. Alaaddin Keykubat tarafından Meram bağları ile Konya şehri arasındaki Havuzhan (Havuzluhan) su deposunda toplanmış, buradan şehre ve civar mahallelere taksim edilmiştir.
+
+Eflaki’nin kaydına göre, şehir deposuna inen Mukbil suyunun bir kolu ve çeşmesi de Çelebi Hüsamettin’in Meram’daki bahçesinde bulunuyordu. Mukbil suyu yüzyıllar boyunca Konya çeşme şadırvanlarına su vermiş, lezzeti ve nefisliği övülmüştür.
+
+Konya’nın zenginleri ve devlet adamları, yaptıkları cami, medrese, hankah gibi hayır müesseselerinin civarına veya avlularına çeşme ve sebiller kurmuşlar, bunlar için kaynaklardan su getirmişlerdir. Konya’lı vezir ve başvezir Sahip Ata Fahreddin Ali, 1258 yılında yaptırdığı Sahip Ata Camii’nin portalindeki sebiller, kadın ve erkekler için ayrı ayrı bölmeleriyle, keseliği olan hamam (Sahip Ata veya Sultan Hamamı), ayrıca Konya’nın muhtelif semtlerinde yaptırdığı dört çeşme ve Havuzhan’daki buzhanesi ile bağ ve bahçeleri için Meram Çayı’ndan Hocacihan’a, Karahüyük ve Harmancık köylerine kollar ayrılmış, içme suyu olarak kullanıldığı gibi bağ ve bahçelerde de harcanmıştır.

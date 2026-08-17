@@ -1,0 +1,132 @@
+---
+kaynak: yeni_meram
+kaynak_url: https://www.yenimeram.com.tr/konya-da-bugun-hangi-eczaneler-nobetci-5-agustos-carsamba-gunu/535700/
+baslik: Konya’da bugün hangi eczaneler nöbetçi? 5 Ağustos Çarşamba günü
+yayin_tarihi: 2026-08-05
+cekilme_tarihi: 2026-08-06
+hash: d9e87107eaeb5181b6abf9e04ed4bae5
+---
+
+# Konya'da bugün hangi eczaneler nöbetçi? 5 Ağustos Çarşamba günü
+
+## Konya' da yaşayan vatandaşlar için nöbetçi eczane bilgileri açıklandı. 5 Ağustos Çarşamba günü, acil ilaç ihtiyacı olanlar için şehrin farklı ilçelerinde hizmet verecek nöbetçi eczaneler belli oldu. İşte nöbetçi eczaneler ve adresleri.
+
+**1. BÖLGE (SELÇUKLU)    **
+
+DEFNE ECZANESİ
+
+FERHUNİYE MAHALLESİ GÖRDES SOKAK YONGA APARTMANI NO:11G SELÇUKLU
+
+(NUMUNE HASTANESİ YENİ ACİL CİVARI, MORG BÖLÜMÜ KARŞISI, YEŞİL MERAM SİTESİ ARKASI)                                                                                                                        
+
+237 55 50
+
+**2. BÖLGE (SELÇUKLU)    **
+
+HACIKAYMAK ECZANESİ
+
+HACIKAYMAK MAHALLESİ HAZARİFEN AHMET SOKAK NO:3C-D-E SELÇUKLU
+
+(64 NOLU ŞEHİT ÜSTEĞMEN AHMET ÇUHADAR SAĞLIK OCAĞI KARŞISI)
+
+238 15 10
+
+**3. BÖLGE (MERAM - SELÇUKLU)    **
+
+SILA ECZANESİ
+
+AKŞEMSETTİN MAHALLESİ KOCA SİNAN SOKAK NO:11A SELÇUKLU
+
+(11 NOLU AKŞEMSETTİN SAĞLIK OCAĞI YANI)
+
+257 06 96
+
+**4. BÖLGE (MERAM)    **
+
+YENİYOL ECZANESİ
+
+AŞKAN MAHALLESİ YENİ MERAM CADDESİ NO:174/A MERAM
+
+(MERAM EĞİTİM ARAŞTIRMA HAST. OTOBÜS DURAKLARI KARŞISI )
+
+324 00 10
+
+**5. BÖLGE (KARATAY - SELÇUKLU)    **
+
+ALTINEKİN ECZANESİ
+
+ŞEMS-İ TEBRİZİ MAHALLESİ İSTANBUL CADDESİ NO:103E KARATAY
+
+(HÜKÜMET MEYDANI CİVARI, KONALTAŞ İŞHANI ALTI, FATİH ÇARŞISI YANI)
+
+352 06 46
+
+**6. BÖLGE (MERAM - SELÇUKLU - KARATAY)    **
+
+BERAT ECZANESİ
+
+KONEVİ MAHALLESİ FERİTPAŞA CADDESİ VURAL APARTMANI 29A MERAM
+
+(TREN İSTASYONU KARSISI)
+
+322 92 33
+
+**7. BÖLGE (KARATAY)    **
+
+BETÜL ECZANESİ
+
+FETİH MAHALLESİ AHMET EFENDİ SOKAK NO:2E KARATAY
+
+(ŞEHİR HASTANESİ CİVARI, ÇARŞAMBA PAZARI VE HALI SAHA YANI)
+
+355 09 90
+
+**8. BÖLGE (SELÇUKLU)    **
+
+HİCRET ECZANESİ
+
+HÜSAMETTİN ÇELEBİ MAHALLESİ AKABE CADDESİ NO:11A SELÇUKLU
+
+(5 NOLU SAĞLIK OCAĞI KARŞISI, TÜYBEK ÇARŞISI)
+
+245 01 97
+
+**9. BÖLGE (SELÇUKLU)    **
+
+BEYZA ECZANESİ
+
+ŞEYH ŞAMİL MAHALLESİ DOSTELİ CADDESİ SELÇUKLU PARK İŞ MERKEZİ NO:54C SELÇUKLU
+
+(ÖZEL MEDOVA HASTANESİ YANI)
+
+248 98 98
+
+**10. BÖLGE (SELÇUKLU)   **
+
+İSTANBUL ECZANESİ
+
+YAZIR MAHALLESİ UMUTLU SOKAK NO:3C SELÇUKLU
+
+(BARBAROS KIZ ÖĞRENCİ YURDU, SALI PAZARI ARKASI)
+
+255 27 55
+
+**11. BÖLGE (SELÇUKLU)    **
+
+SANCAK ECZANESİ
+
+SANCAK MAHALLESİ ŞULE SOKAK NO:17D SELÇUKLU
+
+(MTA YANI, 23 NOLU SAĞLIK OCAĞI KARŞISI)
+
+255 29 96
+
+**12. BÖLGE (KARATAY - MERAM)    **
+
+SOYLU HADİM ECZANESİ
+
+ALAKOVA MAHALLESİ 15513.SOKAK NO:22A MERAM
+
+(YENİ MERAM SANAYİ İLERİSİ 45 NOLU SAĞLIK OCAĞI KARŞISI)
+
+375 03 03

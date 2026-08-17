@@ -1,0 +1,14 @@
+[
+  {
+    "soru": "KOMEK İLKYARDIM VE EĞİTİM AKADEMİSİ FAALİYETLERİ NEREDE?",
+    "beklenen_kelime": "KOMEK Akademi"  
+  },
+  {
+    "soru": "KOSKİ SU FATURASI NASIL ÖDENİR VEYA TAKSİT YAPILIR?",
+    "beklenen_kelime": "koski"
+  },
+  {
+    "soru": "KONYA BÜYÜKŞEHİR BELEDİYENİN KIŞ AYLARINDAKİ ÇALIŞMALARI NELERDİR?",
+    "beklenen_kelime": "konya_bel_tr"
+  }
+]
